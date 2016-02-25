@@ -16,22 +16,22 @@ jóvenes o niños._
 
 {{ libro "Los poemas de la arena"
           página: adultos/los-poemas-de-la-arena
-          imágen: adultos/los-poemas-thumb.jpg }}
+          imágen: adultos/los-poemas-peq.jpg }}
 {{ libro "Los poemas de la arena (relato)"
           página: adultos/poemas-aldecoa
-          imágen: adultos/poemas-aldecoa-thumb.jpg }}
+          imágen: adultos/poemas-aldecoa-peq.jpg }}
 {{ libro "Algo es algo (relato)"
           página: adultos/algo-aldecoa
-          imágen: adultos/algo-aldecoa-thumb.jpg }}
+          imágen: adultos/algo-aldecoa-peq.jpg }}
 {{ libro "Daños colaterales (Hazañas antibélicas)"
           página: adultos/daños
-          imágen: adultos/da-os-thumb.jpg }}
+          imágen: adultos/da-os-peq.jpg }}
 {{ libro "Palabras por la lectura"
           página: adultos/porlalectura
-          imágen: adultos/por-la-lectura-thumb.jpg }}
+          imágen: adultos/por-la-lectura-peq.jpg }}
 {{ libro "La conspiración de los espejos"
           página: adultos/conspiracion
-          imágen: adultos/conpiracionespejos-thumb.jpg }}
+          imágen: adultos/conpiracionespejos-peq.jpg }}
 
 {{ salto }}
 
@@ -40,13 +40,13 @@ jóvenes o niños._
 
 {{ libro "Bruno y la casa del espejo"
           página: alfaguara/bruno
-          imágen: alfaguara/bruno-thumb.jpg }}
+          imágen: alfaguara/bruno-peq.jpg }}
 {{ libro "La selva de los números"
           página: alfaguara/la-selva
-          imágen: alfaguara/la-selva-thumb.jpg }}
+          imágen: alfaguara/la-selva-peq.jpg }}
 {{ libro "Las hijas de tuga"
           página: alfaguara/tuga
-          imágen: alfaguara/tuga-thumb.jpg }}
+          imágen: alfaguara/tuga-peq.jpg }}
 
 {{ salto }}
 
@@ -54,31 +54,31 @@ jóvenes o niños._
 
 {{ libro "Diario en un campo de barro"
           página: edelvives/diario
-          imágen: edelvives/diario-thumb.jpg }}
+          imágen: edelvives/diario-peq.jpg }}
 {{ libro "El cazador de estrellas"
           página: edelvives/cazador
-          imágen: edelvives/cazador-thumb.jpg }}
+          imágen: edelvives/cazador-peq.jpg }}
 {{ libro "Gente rara"
           página: edelvives/gente-rara
-          imágen: edelvives/gente-rara-thumb.jpg }}
+          imágen: edelvives/gente-rara-peq.jpg }}
 {{ libro "La isla de Nuncameolvides"
           página: edelvives/la-isla
-          imágen: edelvives/la-isla-thumb.jpg }}
+          imágen: edelvives/la-isla-peq.jpg }}
 {{ libro "Los zorros del norte"
           página: edelvives/zorros
-          imágen: edelvives/los-zorros-thumb.jpg }}
+          imágen: edelvives/los-zorros-peq.jpg }}
 {{ libro "El hermano secreto de Caperucita Erre"
           página: edelvives/caperucita
-          imágen: edelvives/caperucita-cubierta-peq-thumb.jpg }}
+          imágen: edelvives/caperucita-cubierta-peq-peq.jpg }}
 {{ libro "El perro que buscaba estrellas"
           página: edelvives/perro
-          imágen: edelvives/perro-thumb.jpg }}
+          imágen: edelvives/perro-peq.jpg }}
 {{ libro "Un chico diferente"
           página: edelvives/unchicodiferente
-          imágen: edelvives/cubierta-chico-peq-thumb.jpg }}
+          imágen: edelvives/cubierta-chico-peq-peq.jpg }}
 {{ libro "Juegos inocentes juegos"
           página: edelvives/juegos
-          imágen: edelvives/103211-cubtd-juegos-web-thumb.jpg }}
+          imágen: edelvives/103211-cubtd-juegos-web-peq.jpg }}
 
 {{ salto }}
 
@@ -86,7 +86,7 @@ jóvenes o niños._
 
 {{ libro "El sueño de Lu Shzu"
           página: edelvives-ilustrado/lushzu
-          imágen: edelvives-ilustrado/luszhu-thumb.jpg }}
+          imágen: edelvives-ilustrado/luszhu-peq.jpg }}
 
 {{ salto }}
 
@@ -102,19 +102,19 @@ jóvenes o niños._
 
 {{ libro "Zigurat"
           página: sm/zigurat
-          imágen: sm/zigurat-thumb.jpg }}
+          imágen: sm/zigurat-peq.jpg }}
 
 {{ libro "Ojo de Nube"
           página: sm/ojodenube
-          imágen: sm/ojo-de-nube-esp-thumb.jpg }}
+          imágen: sm/ojo-de-nube-esp-peq.jpg }}
 
 {{ libro "Cuentos crudos"
           página: sm/cuentoscrudos-ga
-          imágen: sm/cub-cuentos-crudosga-peq-thumb.jpg }}
+          imágen: sm/cub-cuentos-crudosga-peq-peq.jpg }}
 
 {{ libro "Tras el cristal"
           página: sm/traselcristal
-          imágen: sm/tras-el-cristal-cubierta-peq-thumb.jpg }}
+          imágen: sm/tras-el-cristal-cubierta-peq-peq.jpg }}
 
 {{ salto }}
 
@@ -122,15 +122,15 @@ jóvenes o niños._
 
 {{ libro "7 cuentos crudos"
           página: sm-especial/cuentos-crudos
-          imágen: sm-especial/cuentos-crudos-thumb.jpg }}
+          imágen: sm-especial/cuentos-crudos-peq.jpg }}
 
 {{ libro "Ojo de Nube"
           página: sm-especial/ojodenube-especial
-          imágen: sm-especial/ojodenube-especial-thumb.jpg }}
+          imágen: sm-especial/ojodenube-especial-peq.jpg }}
 
 {{ libro "Mujer mirando al mar"
           página: sm-especial/mmm-especial
-          imágen: sm-especial/mmm-peq-thumb.jpg }}
+          imágen: sm-especial/mmm-peq-peq.jpg }}
 
 {{ salto }}
 
@@ -138,33 +138,33 @@ jóvenes o niños._
 
 {{ libro "La ciencia en un periquete"
           página: divulgativos/periquete
-          imágen: divulgativos/cienciaperiquete-thumb.png }}
+          imágen: divulgativos/cienciaperiquete-peq.png }}
 
 {{ libro "El mundo secreto de los números"
           página: divulgativos/mundonumeros
-          imágen: divulgativos/mundonumeros-thumb.png }}
+          imágen: divulgativos/mundonumeros-peq.png }}
 
 {{ libro "El misterioso secuestro de Dinomático"
           página: divulgativos/dinosabios
-          imágen: divulgativos/dinosabios-sm2-thumb.jpg }}
+          imágen: divulgativos/dinosabios-sm2-peq.jpg }}
 
 {{ salto }}
 
 {{ libro "Selección de textos divulgativos I"
           página: divulgativos/anaya1
-          imágen: divulgativos/divulgativo-anaya-1º-eso-thumb.jpg }}
+          imágen: divulgativos/divulgativo-anaya-1º-eso-peq.jpg }}
 
 {{ libro "Selección de textos divulgativos II"
           página: divulgativos/anaya2
-          imágen: divulgativos/divulgativo-anaya-2º-eso-thumb.jpg }}
+          imágen: divulgativos/divulgativo-anaya-2º-eso-peq.jpg }}
 
 {{ libro "Selección de textos divulgativos I"
           página: divulgativos/anaya3
-          imágen: divulgativos/divulgativo-anaya-3º-eso-thumb.jpg }}
+          imágen: divulgativos/divulgativo-anaya-3º-eso-peq.jpg }}
 
 {{ libro "Selección de textos divulgativos IV"
           página: divulgativos/anaya4
-          imágen: divulgativos/divulgativo-anaya-4-eso-thumb.jpg }}
+          imágen: divulgativos/divulgativo-anaya-4-eso-peq.jpg }}
 
 {{ salto }}
 
@@ -176,19 +176,19 @@ jóvenes o niños._
 
 {{ libro "Romeo y Julieta, de Shakespeare"
           página: adaptaciones/ryj
-          imágen: adaptaciones/romeoyjulieta2-thumb.jpg }}
+          imágen: adaptaciones/romeoyjulieta2-peq.jpg }}
 
 {{ libro "El Abencerraje"
           página: adaptaciones/abencerraje
-          imágen: adaptaciones/abencerraje-peq-thumb.jpg }}
+          imágen: adaptaciones/abencerraje-peq-peq.jpg }}
 
 {{ libro "Amadís de Gaula"
           página: adaptaciones/amadis
-          imágen: adaptaciones/amadis-peq-thumb.jpg }}
+          imágen: adaptaciones/amadis-peq-peq.jpg }}
 
 {{ libro "El conde Lucanor"
           página: adaptaciones/lucanor
-          imágen: adaptaciones/condelucanor-peq-thumb.jpg }}
+          imágen: adaptaciones/condelucanor-peq-peq.jpg }}
 
 {{ salto }}
 
@@ -196,19 +196,19 @@ jóvenes o niños._
 
 {{ libro "21 relatos contra el acoso escolar"
           página: varios-y-colectivos/sm-acoso
-          imágen: varios-y-colectivos/libro-acoso-sm-thumb.jpg }}
+          imágen: varios-y-colectivos/libro-acoso-sm-peq.jpg }}
 
 {{ libro "8 maneras de contar"
           página: varios-y-colectivos/ochomaneras
-          imágen: varios-y-colectivos/8-maneras-sm-a-thumb.jpg }}
+          imágen: varios-y-colectivos/8-maneras-sm-a-peq.jpg }}
 
 {{ libro "Atlántico (30 historias de dos mundos)"
           página: varios-y-colectivos/atlantico
-          imágen: varios-y-colectivos/atlantico-thumb.png }}
+          imágen: varios-y-colectivos/atlantico-peq.png }}
 
 {{ libro "21 relatos por la educación"
           página: varios-y-colectivos/relatos-educacion
-          imágen: varios-y-colectivos/relatos-educación-thumb.jpg }}
+          imágen: varios-y-colectivos/relatos-educación-peq.jpg }}
 
 {{ salto }}
 
@@ -216,6 +216,6 @@ jóvenes o niños._
 
 {{ libro "Ritos de jaima"
           página: otros/ritosdejaima
-          imágen: otros/ritosdejaima-thumb.jpg }}
+          imágen: otros/ritosdejaima-peq.jpg }}
 
 {{ salto }}
