@@ -6,8 +6,8 @@ subtitulo: ""
 
 Mis correos electrónicos son:
 
-### > correo@ricardogomez.com
-### > ricardogomez3333@gmail.com
+__> correo@ricardogomez.com__
+__> ricardogomez3333@gmail.com__
 
 Para traducciones y otros asuntos relacionados con la edición de libros,
 puedes ponerte en contacto con mi agente, Beatriz Coll, de la Agencia _Raquel
