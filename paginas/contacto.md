@@ -7,6 +7,7 @@ subtitulo: ""
 Mis correos electrónicos son:
 
 __> correo@ricardogomez.com__
+
 __> ricardogomez3333@gmail.com__
 
 Para traducciones y otros asuntos relacionados con la edición de libros,
