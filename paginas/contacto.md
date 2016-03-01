@@ -2,10 +2,12 @@
 titulo: "Contactar"
 subtitulo: ""
 ---
-{{ imágen contacto/pi.jpg posición: izq }}Mis correos electrónicos son:
+{{ imágen contacto/pi.jpg posición: izq }}
 
-> correo@ricardogomez.com
-## > ricardogomez3333@gmail.com
+Mis correos electrónicos son:
+
+### > correo@ricardogomez.com
+### > ricardogomez3333@gmail.com
 
 Para traducciones y otros asuntos relacionados con la edición de libros,
 puedes ponerte en contacto con mi agente, Beatriz Coll, de la Agencia _Raquel
