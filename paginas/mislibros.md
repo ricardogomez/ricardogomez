@@ -115,6 +115,11 @@ jóvenes o niños._
 {{ libro "Tras el cristal"
           página: sm/traselcristal
           imágen: sm/tras-el-cristal-cubierta-peq-peq.jpg }}
+          
+{{ libro "Tras el cristal"
+          página: sm/traselcristal
+          imágen: sm/tras-el-cristal-cubierta-peq-peq.jpg }}     
+          
 
 {{ salto }}
 
