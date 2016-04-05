@@ -4,7 +4,7 @@ subtitulo: "De Selección de textos divulgativos, Ed. Anaya. Vol. III (3º de Se
 ---
 {{ imágen matematicas/inifinito1.jpg posición: izq }}Un niño pequeño aprende
 pronto que los números enteros están ordenados: 1, 2, 3, 4, 5… Descubre poco
-después que hay números enormes, como 875 o 234899. Si hace concursos para
+después que hay números enormes, como 875 o 235899. Si hace concursos para
 ver quién nombra el número más grande dice con satisfacción «¡Un millón!» Y
 luego: «¡Un millón de billones de quintillones!». Y, por último, pronuncia
 una palabra mágica, que le hace ganar todos los concursos: «¡Infinito!»
@@ -39,7 +39,7 @@ podemos más? Tomemos un microscopio y continuemos: 1/2048, 1/4096… etc.
 
 Alguien dirá: «¡Vaya mareo! ¿Pero no íbamos a dejar los números…?»
 
-Tiene razón. Me he pasado. Pero es que esto viene a cuento por algo que ya
+Tienes razón. Me he pasado. Pero es que esto viene a cuento por algo que ya
 descubrieron los filósofos griegos hace casi tres mil años: hay un infinito
 aditivo, resultado de ir añadiendo uno al anterior, y un infinito divisible,
 resultado de cortar algo en partes cada vez más pequeñas. Además, hemos
