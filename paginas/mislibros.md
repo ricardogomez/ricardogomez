@@ -46,9 +46,11 @@ jóvenes o niños._
 {{ libro "Bruno y la casa del espejo"
           página: alfaguara/bruno
           imágen: alfaguara/bruno-peq.jpg }}
+          
 {{ libro "La selva de los números"
           página: alfaguara/la-selva
           imágen: alfaguara/la-selva-peq.jpg }}
+          
 {{ libro "Las hijas de tuga"
           página: alfaguara/tuga
           imágen: alfaguara/tuga-peq.jpg }}
