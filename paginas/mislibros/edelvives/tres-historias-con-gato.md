@@ -8,6 +8,8 @@ subtitulo: "Editorial Edelvives, 2016, nº XX de la colección \"Ala Delta\", se
 Claudia y Dani están muy enfadados porque Cepillo, su gato, ha desapareceido. Cuando este llegó a su casa, puso patas arriba la vida de la familia. Ahora, Claudia y Dani repasan los momentos felices de su vida en común, y se preguntan si se ha perdido o ha sido secuestrado. Pero, en realidad, ninguno sabe la verdad, excepto el propio Cepillo. 
 
 ***
+<br><br><br><br><br>
+<br><br><br><br><br>
 
 **Así comienza el libro...**
 
