@@ -1,6 +1,6 @@
 ---
 titulo: "Tres historias con gato"
-subtitulo: "Editorial Edelvives, 2016, nº XX de la colección \"Ala Delta\", serie azul. Ilustraciones de Mar Blanco."
+subtitulo: "Editorial Edelvives, 2016, nº 97 de la colección \"Ala Delta\", serie azul. Ilustraciones de Mar Ferrero."
 ---
 {{imagen mislibros/edelvives/tres-historias-con-gato.png posición: izq }}
 **Dice la cuarta de cubierta**
@@ -10,6 +10,7 @@ Claudia y Dani están muy enfadados porque Cepillo, su gato, ha desapareceido. C
 ***
 <br><br><br><br><br>
 <br><br><br><br><br>
+<br><br>
 
 **Así comienza el libro...**
 
