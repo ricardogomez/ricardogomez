@@ -17,18 +17,23 @@ jóvenes o niños._
 {{ libro "Los poemas de la arena"
           página: adultos/los-poemas-de-la-arena
           imágen: adultos/los-poemas-peq.jpg }}
+          
 {{ libro "Los poemas de la arena (relato)"
           página: adultos/poemas-aldecoa
           imágen: adultos/poemas-aldecoa-peq.jpg }}
+          
 {{ libro "Algo es algo (relato)"
           página: adultos/algo-aldecoa
           imágen: adultos/algo-aldecoa-peq.jpg }}
+          
 {{ libro "Daños colaterales (Hazañas antibélicas)"
           página: adultos/daños
           imágen: adultos/da-os-peq.jpg }}
+          
 {{ libro "Palabras por la lectura"
           página: adultos/porlalectura
           imágen: adultos/por-la-lectura-peq.jpg }}
+          
 {{ libro "La conspiración de los espejos"
           página: adultos/conspiracion
           imágen: adultos/conpiracionespejos-peq.jpg }}
@@ -55,30 +60,39 @@ jóvenes o niños._
 {{ libro "Diario en un campo de barro"
           página: edelvives/diario
           imágen: edelvives/diario-peq.jpg }}
+          
 {{ libro "El cazador de estrellas"
           página: edelvives/cazador
           imágen: edelvives/cazador-peq.jpg }}
+          
 {{ libro "Gente rara"
           página: edelvives/gente-rara
           imágen: edelvives/gente-rara-peq.jpg }}
+          
 {{ libro "La isla de Nuncameolvides"
           página: edelvives/la-isla
           imágen: edelvives/la-isla-peq.jpg }}
+          
 {{ libro "Los zorros del norte"
           página: edelvives/zorros
           imágen: edelvives/los-zorros-peq.jpg }}
+          
 {{ libro "El hermano secreto de Caperucita Erre"
           página: edelvives/caperucita
           imágen: edelvives/caperucita-cubierta-peq-peq.jpg }}
+          
 {{ libro "El perro que buscaba estrellas"
           página: edelvives/perro
           imágen: edelvives/perro-peq.jpg }}
+          
 {{ libro "Un chico diferente"
           página: edelvives/unchicodiferente
           imágen: edelvives/cubierta-chico-peq-peq.jpg }}
+          
 {{ libro "Juegos inocentes juegos"
           página: edelvives/juegos
           imágen: edelvives/103211-cubtd-juegos-web-peq.jpg }}
+          
 {{ libro "Tres historias con gato"
           página: edelvives/tres-historias-con-gato
           imágen: edelvives/tres-historias-con-gato-peq.png }}
