@@ -3,9 +3,10 @@ titulo: "Tres historias con gato"
 subtitulo: "Editorial Edelvives, 2016, nº 97 de la colección \"Ala Delta\", serie azul. Ilustraciones de Mar Ferrero."
 ---
 {{imagen mislibros/edelvives/tres-historias-con-gato.png posición: izq }}
-**Dice la cuarta de cubierta**
 
-Claudia y Dani están muy enfadados porque Cepillo, su gato, ha desapareceido. Cuando este llegó a su casa, puso patas arriba la vida de la familia. Ahora, Claudia y Dani repasan los momentos felices de su vida en común, y se preguntan si se ha perdido o ha sido secuestrado. Pero, en realidad, ninguno sabe la verdad, excepto el propio Cepillo. 
+**Dice la cuarta de cubierta**
+<br>
+*Claudia y Dani están muy enfadados porque Cepillo, su gato, ha desapareceido. Cuando este llegó a su casa, puso patas arriba la vida de la familia. Ahora, Claudia y Dani repasan los momentos felices de su vida en común, y se preguntan si se ha perdido o ha sido secuestrado. Pero, en realidad, ninguno sabe la verdad, excepto el propio Cepillo.* 
 
 ***
 <br><br><br><br><br>
