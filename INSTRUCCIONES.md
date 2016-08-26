@@ -6,7 +6,7 @@ http://ricardogomez.com/app/actualizar
 
 ## Imágenes
 
-Usa imageoptimizer.net
+Usa http://imageoptimizer.net
 
 Hay que hacer dos versiones:
 
