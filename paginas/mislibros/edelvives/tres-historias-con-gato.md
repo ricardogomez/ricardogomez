@@ -1,15 +1,15 @@
 ---
 titulo: "Tres historias con gato"
-subtitulo: "Editorial Edelvives, 2016, nº XX de la colección \"Ala Delta\". Ilustraciones de Mar Blanco."
+subtitulo: "Editorial Edelvives, 2016, nº XX de la colección \"Ala Delta\", serie azul. Ilustraciones de Mar Blanco."
 ---
 {{imagen mislibros/edelvives/tres-historias-con-gato.png posición: izq }}
 **Dice la cuarta de cubierta**
 
-Ya veremos lo que dice. 
+Claudia y Dani están muy enfadados porque Cepillo, su gato, ha desapareceido. Cuando este llegó a su casa, puso patas arriba la vida de la familia. Ahora, Claudia y Dani repasan los momentos felices de su vida en común, y se preguntan si se ha perdido o ha sido secuestrado. Pero, en realidad, ninguno sabe la verdad, excepto el propio Cepillo. 
 
 ***
 
-**Así comienza el libro..."
+**Así comienza el libro...**
 
 **1. Claudia**
 
@@ -31,7 +31,7 @@ Con los líos de estos días, nadie ha notado que se me ha caído otro diente. F
 
 Esta noche no creo que haya regalos. Todos andamos pendientes de Cepillo. Incluido, supongo, el ratón Pérez. 
 
-No me dolió mucho, pero durante todo el día he fin-gido que me dolía para que alguien se fijara en mí. Nadie me ha hecho ni caso. Mientras cenábamos me he quejado más, diciendo que no podía masticar bien, pero lo mismo. Con un poco de teatro, he colocado el dientecillo sobre la mesa diciendo:
+No me dolió mucho, pero durante todo el día he fingido que me dolía para que alguien se fijara en mí. Nadie me ha hecho ni caso. Mientras cenábamos me he quejado más, diciendo que no podía masticar bien, pero lo mismo. Con un poco de teatro, he colocado el dientecillo sobre la mesa diciendo:
 
 –Lo pondré esta noche bajo la almohada, como las otras veces. A ver si hay suerte...
 
@@ -39,6 +39,6 @@ Dani ha cambiado enseguida de tema. Es capaz de pensar que me he arrancado el di
 
 La verdad es que nadie tiene más ganas que yo de que vuelva Cepillo, aunque sea el gato de Dani. Quiero que aparezca porque yo hablaba con Cepillo y él me entendía. No me hablaba, pero me entendía. En serio.
 
-Mi hermano fue quien trajo el gato a casa, cuando era un cachorro. Se lo encontraron Iván y él en la ca-lle, un día cuando volvían del colegio. 
+Mi hermano fue quien trajo el gato a casa, cuando era un cachorro. Se lo encontraron Iván y él en la calle, un día cuando volvían del colegio. 
 
 ***
