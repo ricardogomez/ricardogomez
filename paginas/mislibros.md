@@ -79,7 +79,9 @@ jóvenes o niños._
 {{ libro "Juegos inocentes juegos"
           página: edelvives/juegos
           imágen: edelvives/103211-cubtd-juegos-web-peq.jpg }}
-
+{{ libro "Tres historias con gato"
+          página: edelvives/tres-historias-con-gato
+          imágen: edelvives/tres-historias-con-gato-peq.png }}
 {{ salto }}
 
 ## Edelvives - Álbum ilustrado
