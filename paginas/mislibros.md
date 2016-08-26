@@ -132,8 +132,8 @@ jóvenes o niños._
           página: sm/traselcristal
           imágen: sm/tras-el-cristal-cubierta-peq-peq.jpg }}
           
-{{ libro "Zigurat"
-          página: sm/traselcristal
+{{ libro "Zigurat: dioses, reyes, leyes"
+          página: sm/Zigurat: dioses, leyes, reyes
           imágen: sm/zigurat-peq.png }}     
           
 
