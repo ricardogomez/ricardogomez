@@ -174,9 +174,9 @@ jóvenes o niños._
           página: sm/zigurat-dioses
           imágen: sm/zigurat-dioses-170.png }}     
           
-          {{ libro "El insensato deseo de tener un gato"
+{{ libro "El insensato deseo de tener un gato"
           página: sm/gato
-          imágen: sm/gato-A170.png }}  
+          imágen: sm/gato-A170.jpg }}  
           
 
 {{ salto }}
