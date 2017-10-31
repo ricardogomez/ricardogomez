@@ -1,5 +1,5 @@
 # Los viajes de Ulises
-Nº 1 de la Colección **Mitos Clásicos**. Editorial Edelvives. Ilustrado por **Mariona Cabassa**
+Nº 1 de la Colección **Mitos Clásicos**. Editorial Edelvives. Ilustrado por **Mariona Cabassa**. Año 2016
 
 {{imagen mislibros/edelvives-mitologia/ulises-550.jpg posicion:izq }}
 
