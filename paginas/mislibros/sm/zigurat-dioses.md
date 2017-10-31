@@ -36,7 +36,7 @@ El escenario es una región que con el tiempo conoceremos como Irak.
 En aquella época. Hammurabi, rey de Babilonia, intenta construir un imperio.
 
 *
-{{ imágen mislibros/sm/kishar-600.png posición: izq }} 
+{{ imágen mislibros/sm/kishar-600.jpeg posición: izq }} 
 
 
 ---
