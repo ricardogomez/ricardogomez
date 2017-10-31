@@ -27,7 +27,15 @@ Y puesto a reinventar su lugar en el mundo, ¿por qué no dudar de todo lo que c
 
 *
 
+Esta historia transcurre en el siglo XVIII a. de C.
+
+El escenario es una región que con el tiempo conoceremos como Irak.
+
+En aquella época. Hammurabi, rey de Babilonia, intenta construir un imperio.
+
 *
+
+
 
 
 
