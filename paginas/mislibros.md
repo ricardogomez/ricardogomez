@@ -108,6 +108,12 @@ jóvenes o niños._
 
 {{ salto }}
 
+{{ libro "La Pastelería"
+          página: edelvives-mitologia/pasteleria
+          imágen: edelvives-mitologia/pasteleria-170.jpg }}
+
+{{ salto }}
+
 ## Edelvives - Mitología
 
 {{ libro "La Pastelería"
