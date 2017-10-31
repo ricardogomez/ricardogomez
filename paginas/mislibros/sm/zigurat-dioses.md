@@ -6,7 +6,7 @@ Editorial y demás.
 
 
 
-{{ imágen mislibros/sm/zigurat.png posición: izq }} 
+{{ imágen mislibros/sm/zigurat-dioses-340.png posición: izq }} 
 
 **Argumento:**
 
