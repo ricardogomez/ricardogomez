@@ -172,7 +172,7 @@ jóvenes o niños._
           
 {{ libro "Zigurat: dioses, reyes, leyes"
           página: sm/zigurat-dioses
-          imágen: sm/zigurat-peq.png }}     
+          imágen: sm/zigurat-dioses-170.png }}     
           
 
 {{ salto }}
