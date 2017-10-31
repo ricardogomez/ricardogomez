@@ -10,8 +10,11 @@ Editorial SM. Colección Barco de Vapor nº 177. Ilustraciones de **Betowers (Be
 **Dice la cuarta de cubierta:**
 
 Soy un incomprendido.
+
 Mi madre no quiere comprarme un gato.
+
 ¿Qué hay de malo en querer una mascota así?
+
 A mí no me parece una idea descabellada: no estamos hablando de una serpiente o de un animal exótico?
 
 ¿Por qué no puedo tener un animal de compañía tan inofensivo?
