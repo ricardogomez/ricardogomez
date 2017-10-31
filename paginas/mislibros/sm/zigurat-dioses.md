@@ -16,5 +16,12 @@ Convertido en esclavo, tratado como poco más que un animal, Namri tendrá que c
 
 
 Y puesto a reinventar su lugar en el mundo, ¿por qué no dudar de todo lo que conocía y creía saber?
+*
+*
+*
+*
+*
+*
+*
 
 
