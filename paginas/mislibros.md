@@ -108,6 +108,14 @@ jóvenes o niños._
 
 {{ salto }}
 
+## Edelvives - Mitología
+
+{{ libro "El sueño de Lu Shzu"
+          página: edelvives-ilustrado/lushzu
+          imágen: edelvives-ilustrado/luszhu-peq.jpg }}
+
+{{ salto }}
+
 ## Editorial SM
 
 {{ libro "Como la piel del caimán"
