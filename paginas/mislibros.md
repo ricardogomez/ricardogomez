@@ -107,8 +107,8 @@ jóvenes o niños._
           imágen: edelvives-ilustrado/luszhu-peq.jpg }}
 
 {{ libro "La Pastelería"
-          página: edelvives-mitologia/pasteleria
-          imágen: edelvives-mitologia/pasteleria-170.jpg }}
+          página: edelvives-ilustrado/pasteleria
+          imágen: edelvives-ilustrado/pasteleria-170.jpg }}
 
 {{ salto }}
 
