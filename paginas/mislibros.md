@@ -114,9 +114,27 @@ jóvenes o niños._
 
 ## Edelvives - Mitología
 
-{{ libro "La Pastelería"
-          página: edelvives-mitologia/pasteleria
-          imágen: edelvives-ilustrado/luszhu-peq.jpg }}
+{{ libro "Los viajes de Ulises"
+          página: edelvives-mitologia/ulises
+          imágen: edelvives-ilustrado/ulises-170.jpg }}
+{{ libro "ElMinotauro y el laberinto"
+          página: edelvives-mitologia/minotauro
+          imágen: edelvives-ilustrado/minotauro-170.jpg }}
+{{ libro "Los trabajos de Hércules"
+          página: edelvives-mitologia/hercules
+          imágen: edelvives-ilustrado/hercules-170.jpg }}
+{{ libro "El fuego de Prometeo"
+          página: edelvives-mitologia/prometeo
+          imágen: edelvives-ilustrado/prometeo-170.jpg }}
+{{ libro "Orfeo y Eurídice"
+          página: edelvives-mitologia/orfeo
+          imágen: edelvives-ilustrado/orfeo-170.jpg }}
+{{ libro "El vuelo de Ícaro"
+          página: edelvives-mitologia/icaro
+          imágen: edelvives-ilustrado/icaro-170.jpg }}
+{{ libro "Los enigmas de la Esfinge"
+          página: edelvives-mitologia/esfinge
+          imágen: edelvives-ilustrado/esfinge170.jpg }}
 
 {{ salto }}
 
