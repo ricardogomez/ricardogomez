@@ -1,5 +1,5 @@
 # Los enigmas de la Esfinge
-Nº 7 de la Colección **Mitos Clásicos**. Editorial Edelvives. Ilustrado por **Mar Ferrero**. Año 2016
+Nº 7 de la Colección **Mitos Clásicos**. Editorial Edelvives. Ilustrado por **Mar Ferrero**. Año 2017
 
 {{imagen mislibros/edelvives-mitologia/esfinge-550.jpg posicion:izq }}
 
