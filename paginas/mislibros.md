@@ -110,8 +110,8 @@ jóvenes o niños._
 
 ## Edelvives - Mitología
 
-{{ libro "El sueño de Lu Shzu"
-          página: edelvives-ilustrado/lushzu
+{{ libro "La Pastelería"
+          página: edelvives-mitologia/pasteleria
           imágen: edelvives-ilustrado/luszhu-peq.jpg }}
 
 {{ salto }}
