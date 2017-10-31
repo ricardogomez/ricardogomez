@@ -1,3 +1,9 @@
+# Zigurat. Dioses, reyes, leyes
+Editorial y demás.
+---
+
+
+
 {{ imágen mislibros/sm/zigurat.png posición: izq }} Argumento:
 
 La vida del joven Namri ha dado un repentino giro hacie el abismo. Ya no sucederá a su padre, monarca de la ciudad mesopotámica de Mari: el implaclable ejército de Hammurabi ha ocupado su reino,  y la primera guerra en la que Namri ha participado será también la última.
