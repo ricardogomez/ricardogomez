@@ -140,7 +140,7 @@ jóvenes o niños._
           
 {{ libro "Los enigmas de la Esfinge"
           página: edelvives-mitologia/esfinge
-          imágen: edelvives-mitologia/esfinge-170.jpg }}
+          imágen: edelvives-mitologia/esfinge-170.jpeg }}
 
 {{ salto }}
 
