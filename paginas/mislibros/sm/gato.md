@@ -5,6 +5,6 @@ Editorial y demás.
 ---
 
 
-{{ imagen /imagenes/sm/gato-A340.jpg pos:izq }}
+{{ imagen /imagenes/mislibros/sm/gato-A340.jpg pos:izq }}
 
 El testo....
