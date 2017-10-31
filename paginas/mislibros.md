@@ -171,7 +171,7 @@ jóvenes o niños._
           imágen: sm/tras-el-cristal-cubierta-peq-peq.jpg }}
           
 {{ libro "Zigurat: dioses, reyes, leyes"
-          página: sm/Zigurat: dioses, leyes, reyes
+          página: sm/zigurat-dioses
           imágen: sm/zigurat-peq.png }}     
           
 
