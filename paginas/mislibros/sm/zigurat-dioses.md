@@ -1,6 +1,6 @@
 # Zigurat. Dioses, reyes, leyes
 
-Editorial y demás.
+Editorial **SM**. Colleción Gran Angular, "Los libros de Ricardo", nº 1. 2015. 295 páginas
 
 ---
 
@@ -29,7 +29,7 @@ Y puesto a reinventar su lugar en el mundo, ¿por qué no dudar de todo lo que c
 
 *
 
-*
+
 
 
 
