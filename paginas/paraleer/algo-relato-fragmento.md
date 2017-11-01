@@ -78,9 +78,9 @@ quitado el polvo del camión, arreglado el interior de la casamata, recogido
 las colillas y la basura, lustrado sus botas y vestido sus uniformes, listos
 para el saludo vespertino:
 
--¡A sus órdenes, mi general! Sin novedad en el puesto.
+—¡A sus órdenes, mi general! Sin novedad en el puesto.
 
--Descansen, soldados.
+—Descansen, soldados.
 
 El viejo caminaba con pasos temblorosos apoyado en su bastón. Realizaba un
 camino de inspección tan consabido que los soldados podían adivinar cada uno
@@ -100,11 +100,11 @@ sabía qué otras cosas. Pero la más exhaustiva de todas era la revisión
 personal. Ni un botón, ni una trabilla mal ajustada se escapaban a sus
 diminutos ojos de halcón.
 
--Soldado, en cuanto llegue al cuartel hágase rasurar la porción de cuello
+—Soldado, en cuanto llegue al cuartel hágase rasurar la porción de cuello
 debajo de las orejas. Y átese las botas como es debido, pasando el cordón por
 todos los ojetes.
 
--Sí, mi general.
+—Sí, mi general.
 
 Una vez a la semana, pero eso había ocurrido hacía dos días y no había que
 temerlo hoy, se revisaban las armas, desde las bayonetas a los fusiles. Sus
@@ -126,9 +126,9 @@ bala hubiera bastado, eso pensaban los soldados menos afectos, para acabar
 con la locura de vigilar la agonía de un viejo maniático en medio un páramo
 estéril.
 
--Me despiertan si hay algún recado importante. ¡Que tengan buena guardia!
+—Me despiertan si hay algún recado importante. ¡Que tengan buena guardia!
 
--Sí, mi general. Buenas noches, mi general.
+—Sí, mi general. Buenas noches, mi general.
 
 Dorotea, vestida ya como convenía a una mujer que sería contemplada por
 hombres que no eran su marido, había comenzado su tarea en la mansión,
@@ -190,7 +190,7 @@ platillo, y fue hacia el oscurecido gabinete. No quiso detenerse ante el
 espejo del recibidor por no sobresaltarse una vez más y empujó la puerta sin
 llamar. Depositó el refresco sobre la mesa.
 
--Gracias, Dorotea.
+—Gracias, Dorotea.
 
 Al comienzo, la mujer había sentido lástima del vejestorio, pero eso había
 sido mucho tiempo atrás. Curiosamente, a medida que se avejentaba y arrugaba,
