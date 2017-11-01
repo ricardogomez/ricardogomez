@@ -4,7 +4,7 @@ subtitulo: "Editorial Santillana, 2016. Colección Loqueleo."
 Ilustraciones de **Tesa González**
 "
 ---
-{{ imágen mislibros/alfaguara/selvanumeros-340.jpg posición: izq }} 
+{{ imágen mislibros/alfaguara/selvanumeros-340.jpeg posición: izq }} 
 
 
 **Argumento:**
