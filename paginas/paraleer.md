@@ -45,6 +45,18 @@ relato)’](http://www.ricardogomez.com/paraleer/mmmcuento)
 
 ...
 
+
+---
+
+#
+
+"A estas alturas debes haberlo adivinado: vengo de otro planeta. Pero nunca te diré llévame ante tus dirigentes. Ni siquiera yo, poco acostumbrada como estoy a vuestras maneras, cometería tal error. Nosotros también tenemos seres así entre nosotros, hechos de engranajes, trozos de papel, discos pequeños de metal brillante, retazos de telas de colores. No necesito conocer a ninguno más. 
+
+En cambio te diré: Llévame ante tus desayunos, tus puestas de sol, tus malos sueños, tus zapatos, tus sustantivos. Llévame ante tus dedos; ante tus muertes. Esos sí valen la pena. Eso es lo que vine buscando.”
+
+> **Margaret Atwood: “Aterrizaje”**
+---
+
 #
 
 “Cerró la puerta y se adentró en la semioscuridad diciendo hola en voz alta.
@@ -62,6 +74,8 @@ hierro candente chisporrotaban y despedían un color nauseabundo….”
 
 {{ imágen paraleer/luna2.jpg posición: izq }}
 
+---
+
 #
 
 “El arte es siempre el arte del detalle. Bach no solo es el todo que te
@@ -69,6 +83,9 @@ conmueve y te llega hasta la médula, sino también la estructura minuciosa de
 los minúsculos elementos que componen una fuga…”
 
 > **Sándor Márai: “La hermana”**
+
+---
+
 #
 
 “La tierra bajo sus botas era como un viejo colchón chirriante y elástico:
@@ -79,6 +96,9 @@ un día había brotado en capullos, susurrado en el viento de una tormenta,
 brillado al sol después de una lluvia.”
 
 > **Vasili Grossman: “Vida y destino”**
+
+---
+
 #
 “Las bibliotecas de los críticos suelen ser estupendas, primero por la
 inmensa cantidad de libros (no los compran, se los mandan de regalo las
@@ -87,7 +107,12 @@ halagos y por anticipado una reseña favorable), y segundo porque la mayoría
 de ellos permanecen intonsos, como nuevos, no teniendo el crítico de tiempo
 ni ganas de leer los libros que reseña. En Angosta se sabía que el lema de
 Afamador era el siguiente: _Reseño los libros antes de leerlos; así, cuando
-los leo, ya sé qué pensar de ellos._” > **Héctor Abad Faciolince: “Angosta”**
+los leo, ya sé qué pensar de ellos._” 
+
+> **Héctor Abad Faciolince: “Angosta”**
+
+---
+
 #
 
 “Camino por el sendero ancho hacia la orilla del lago. El horizonte, que ya
@@ -104,6 +129,9 @@ nuestros campos y los dejaremos tranquilos, y en pocos años la frontera
 recobrará la paz.”
 
 > **J.M. Coetzee: “Esperando a los bárbaros”**
+
+---
+
 #
 
 “Mi padre no hablaba mucho, por eso me acuerdo de lo que decía. Y recuerdo
@@ -115,6 +143,9 @@ ser bastante simple como para que la entienda un niño. De lo contrario sería
 demasiado tarde. Cuando la comprendieras ya sería tarde.”
 
 > **Cormac McCarthy: “No es país para viejos”**
+
+---
+
 #
 
 “No basta con lamentarnos, criticar al gobierno, a los capitalistas o a las
@@ -126,6 +157,9 @@ empezar a hacerlo, individualmente pero de forma decidida y segura. Con
 vistas a la sociedad futura. Como quien sabe que así no se dejará dominar.”
 
 > **Ana Mª Machado**
+
+---
+
 #
 
 “Van pasando, pasan, pasan, deslizándose los años, por utilizar una
@@ -138,6 +172,9 @@ llegado la hora de que examinemos algunas instantáneas antiguas, pinturas
 rupestres de trenes y aeroplanos, estratos de juguetes en el pesado armario.”
 
 > **Vladimir Nabokov: “Habla, memoria”**
+
+---
+
 #
 
 Si pudiera ser un indio, ahora mismo, y sobre un caballo a todo galope, con
@@ -147,6 +184,8 @@ riendas, pues no tenía riendas, y sólo viendo ante mí un paisaje como una
 pradera segada, ya sin el cuello y sin la cabeza del caballo.
 
 > **Franz Kafka: “El deseo de ser un indio”**
+
+
 * * *
 
 #
