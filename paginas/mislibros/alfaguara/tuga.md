@@ -7,7 +7,12 @@ subtitulo: "Editorial Santillana, 2016. Colección Loqueleo. Ilustraciones de Te
 
 ---
 
-{{ imágen mislibros/alfaguara/tuga.jpg posición: izq }} **Argumento:**
+
+{{ imágen mislibros/alfaguara/tuga.jpg posición: izq }} 
+
+---
+
+**Argumento:**
 
 Tuga, la famosa tortuga inventora de los números, acaba de tener 52 hijas.
 
@@ -26,4 +31,4 @@ también por la Editorial Santillana.
 
 Si quieres leer el primer capítulo:
 
-## [> Leer capítulo 1](/paraleer/tuga-capitulo1)
+[> Leer capítulo 1](/paraleer/tuga-capitulo1)
