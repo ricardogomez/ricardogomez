@@ -42,7 +42,7 @@ En aquella época. Hammurabi, rey de Babilonia, intenta construir un imperio.
 ---
 
 
-{{ imágen mislibros/sm/kishar-600A.jpeg posición: izq }} {{ imágen mislibros/sm/kishar-600B.jpeg posición: der }} 
+{{ imágen mislibros/sm/kishar-600.jpeg posición: der }} 
 
 *
 
