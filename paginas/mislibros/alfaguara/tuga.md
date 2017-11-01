@@ -9,7 +9,7 @@ subtitulo: "Editorial Santillana, 2016. Colección Loqueleo. Ilustraciones de Te
 
 Tuga, la famosa tortuga inventora de los números, acaba de tener 52 hijas.
 
-Todas han roto el ascarón y han salido a hacer su vida, como debe ser. Todas menos una, ¡que se ha quedado con Tuga y que además es una preguntona!
+Todas han roto el cascarón y han salido a hacer su vida, como debe ser. Todas menos una, ¡que se ha quedado con Tuga y que además es una preguntona!
 
 Pero un día la pequeña tortuguita desaparece. 
 ¿Qué ocurrirá entonces?
