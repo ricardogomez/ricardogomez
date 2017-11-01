@@ -3,6 +3,8 @@ titulo: "Las hijas de Tuga"
 subtitulo: "Editorial Santillana, 2016. Colección Loqueleo. Ilustraciones de Tesa González
 
 "
+
+
 ---
 
 {{ imágen mislibros/alfaguara/tuga.jpg posición: izq }} **Argumento:**
@@ -20,7 +22,7 @@ también por la Editorial Santillana.
 ---
 
 
-* * *
+
 
 Si quieres leer el primer capítulo:
 
