@@ -4,7 +4,10 @@ subtitulo: "Editorial Santillana, 2016. Colección Loqueleo."
 Ilustraciones de **Tesa González**
 "
 ---
-{{ imágen mislibros/alfaguara/selvanumeros-340.jpg posición: izq }} **Argumento:**
+{{ imágen mislibros/alfaguara/selvanumeros-340.jpg posición: izq }} 
+
+
+**Argumento:**
 
 Hace ya mucho tiempo, una sabia y vieja tortuga descubrió algo sorprendente que servía, entre otras cosas, para poner orden en la remota selva en que vivía: los números.
 
