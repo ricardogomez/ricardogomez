@@ -389,7 +389,7 @@ era consecuencia directa del uso de la corriente eléctrica.
 
 * * *
 
-## Procedencia de los poemas [1], [2] y [3]: _El mawwal egipcio, expresión
+**Procedencia de los poemas [1], [2] y [3]: _El mawwal egipcio, expresión
 literaria popular_, Serafín Fanjul. Instituto Hispano-Árabe de Cultura.
 Madrid, 1976.
 
