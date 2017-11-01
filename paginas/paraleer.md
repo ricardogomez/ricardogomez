@@ -233,7 +233,8 @@ arrastra de nuevo el río, que parece lento pero jamás se para.”
 
 > **Dino Buzzati: “El desierto de los tártaros”**
 
-.
+---
+
 
 “Qué extraños eran los entresijos de la memoria de la gente del pueblo: las
 cosas que se esforzaban por recordar huían a veces y se ocultaban bajo el
