@@ -14,9 +14,9 @@ tuviera la misma dignidad que el protagonista del este cuento, inspirado en
 Pero la historia muestra que no se puede esperar nada de individuos como ese.
 Pinochet murió en la cama, tan deshonrosamente como siempre había vivido.
 
-...
+---
 
-Hasta los lagartos, acostumbrados desde siglos a las incendiarias tardes del
+HASTA LOS LAGARTOS, acostumbrados desde siglos a las incendiarias tardes del
 verano, se disputaban cualquier refugio bajo las requemadas piedras en aquel
 veintisiete de febrero. El desierto cercano era un mar ardiente en que
 naufragaban de cuando en cuando los arrendajos, sofocados en una atmósfera
