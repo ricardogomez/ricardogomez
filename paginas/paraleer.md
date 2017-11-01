@@ -54,7 +54,8 @@ relato)’](http://www.ricardogomez.com/paraleer/mmmcuento)
 
 En cambio te diré: Llévame ante tus desayunos, tus puestas de sol, tus malos sueños, tus zapatos, tus sustantivos. Llévame ante tus dedos; ante tus muertes. Esos sí valen la pena. Eso es lo que vine buscando.”
 
-> **Margaret Atwood: “Aterrizaje”**
+**Margaret Atwood: “Aterrizaje”**
+
 ---
 
 #
@@ -100,6 +101,7 @@ brillado al sol después de una lluvia.”
 ---
 
 #
+
 “Las bibliotecas de los críticos suelen ser estupendas, primero por la
 inmensa cantidad de libros (no los compran, se los mandan de regalo las
 editoriales, con dedicatorias lambonas de los autores, que intentan pagar con
