@@ -1072,6 +1072,10 @@ mundo.
 La mujer y los soldados se miraron a la cara. Cuando comprendieron, aunque
 ninguno sonrió los tres sintieron una íntima alegría.
 
+---
+
+
+
 _[Un torturador no se redime suicidándose,_
 
 pero algo es algo.
