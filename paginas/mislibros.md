@@ -49,11 +49,11 @@ jóvenes o niños._
           
 {{ libro "La selva de los números"
           página: alfaguara/la-selva
-          imágen: alfaguara/la-selva-peq.jpg }}
+          imágen: alfaguara/selvanumeros-170.jpg }}
           
 {{ libro "Las hijas de tuga"
           página: alfaguara/tuga
-          imágen: alfaguara/tuga-peq.jpg }}
+          imágen: alfaguara/hijastuga-170.jpg }}
 
 {{ salto }}
 
