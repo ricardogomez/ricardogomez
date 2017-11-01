@@ -1,15 +1,16 @@
 ---
 titulo: "La selva de los números"
-subtitulo: "Editorial Alfaguara, 2000. Colección Próxima Parada.Ilustraciones de Tesa González"
+subtitulo: "Editorial Santillana, 2016. Colección Loqueleo."
+Ilustraciones de **Tesa González**
+"
 ---
-{{ imágen mislibros/alfaguara/la-selva.jpg posición: izq }} **Argumento:**
+{{ imágen mislibros/alfaguara/selvanumeros-340.jpg posición: izq }} **Argumento:**
 
-Hace mucho, mucho tiempo, una vieja y sabia tortuga se encierra en el hueco
-de un viejísimo árbol e inventa algo sorprendente: los números. Entusiasmada
-por su descubrimiento, trata de convencer al León de la bondad de su
-descubrimiento, pero éste considera que es una inutilidad. La tortuga
-entonces pone su invento a disposición de otros animales: elefantes, abejas,
-monos… Estos bichos los utilizan para los fines más locos y sorprendentes.
+Hace ya mucho tiempo, una sabia y vieja tortuga descubrió algo sorprendente que servía, entre otras cosas, para poner orden en la remota selva en que vivía: los números.
+
+Decidida a compartir su sabiduría, fue mostrando su invento a diversos animales, y estos lo utilizaron para los más locos y sorprendentes fines. 
+
+**(Una manera fácil y divertida de descubrir el encanto de los números)**
 
 La historia de esta tortuga continúa en el libro “Las hijas de Tuga”,
 publicado también por la Editorial Alfaguara.
