@@ -21,7 +21,11 @@ Así, el libro se abre con uan introducción histrica y literaria en los tiempos
 
 ---
 
-{{ imagen mislibros/sm/sueño-jornada1-500.jpeg posición: izq }}
+{{ imagen mislibros/sm/sueño-jornada1-500.jpeg posición: der }}
+
+*
+
+
 
 
 
