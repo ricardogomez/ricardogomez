@@ -17,7 +17,7 @@ Años más tarde, SM realiza una nueva reedición de esta adaptación, en la ren
 
 La editorial, y en particular **Carolina Pérez**, ha concebido el libro (y la colección) con una intención didáctica y, por tanto literaria, en el sentido de invitarnos a entender un poco más el significado de esta obra en su tiempo y en la época actual. Quiero pensar que es así como me habría gustado que mí me enseñasen la Literatura a mis dieciséis años, porque incluso ahora me ha permitido descubrir aspectos de esta obra en el contexto de la literatura del XVII.
 
-Así, el libro se abre con uan introducción histrica y literaria en los tiempos de Calderón; una biografía sintética del autor de la obra en relación con sus propias publicaciones; algunas claves sobre la obra; un cuadro sinóptico sobre los personajes; una referencia bibliográfica a la literatura *onírica* en otras novelas y películas... 
+Así, el libro se abre con una introducción histórica y literaria en los tiempos de Calderón; una biografía sintética del autor de la obra en relación con sus propias publicaciones; algunas claves sobre la obra; un cuadro sinóptico sobre los personajes; una referencia bibliográfica a la literatura *onírica* en otras novelas y películas... 
 
 ---
 
