@@ -172,7 +172,12 @@ jóvenes o niños._
           
 {{ libro "Zigurat: dioses, reyes, leyes"
           página: sm/zigurat-dioses
-          imágen: sm/zigurat-dioses-170.png }}     
+          imágen: sm/zigurat-dioses-170.png }}  
+          
+{{ libro "La vida es sueño"
+          página: sm/sueño
+          imágen: sm/sueño-170.jpeg }}  
+          
           
 {{ libro "El insensato deseo de tener un gato"
           página: sm/gato
