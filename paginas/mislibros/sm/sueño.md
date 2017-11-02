@@ -1,3 +1,9 @@
+---
+título: "La vida es sueño, de Calderón de la Barca"
+subtítulo: "Editorial SM. Colección Clásicos. Año 2017.
+---
+
+
 ## La vida es sueño, de Calderón de la Barca
 Editorial SM. **Colección Clásicos**. Año 2017.
 
