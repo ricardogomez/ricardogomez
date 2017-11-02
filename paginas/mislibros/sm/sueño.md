@@ -19,3 +19,5 @@ La editorial, y en particular **Carolina Pérez**, ha concebido el libro (y la c
 
 Así, el libro se abre con uan introducción histrica y literaria en los tiempos de Calderón; una biografía sintética del autor de la obra en relación con sus propias publicaciones; algunas claves sobre la obra; un cuadro sinóptico sobre los personajes; una referencia bibliográfica a la literatura *onírica* en otras novelas y películas... 
 
+---
+
