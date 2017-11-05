@@ -61,29 +61,13 @@ Así, el libro se abre con una introducción histórica y literaria en los tiemp
 
 *
 
+*
 
 He aquí la estructura de cada página, con el texto y las anotaciones marginales...
 
 ---
 
-*
 
-*
-
-*
-
-*
-
-*
-*
-
-*
-
-*
-
-*
-
-*
 
 
 {{ imagen mislibros/sm/sueño-claves1-500.jpeg posición: der }}
@@ -91,6 +75,11 @@ He aquí la estructura de cada página, con el texto y las anotaciones marginale
 {{ imagen mislibros/sm/sueño-claves2-500.jpeg posición: der }}
 
 Algunas páginas informativas del libro...
+
+*
+
+*
+
 
 ---
 
