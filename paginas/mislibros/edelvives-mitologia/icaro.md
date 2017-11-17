@@ -9,6 +9,7 @@ Nº 6 de la Colección **Mitos Clásicos**. Editorial Edelvives. Ilustrado por *
 
 **Dice la cuarta de cubierta:**
 
+Cuando el rey Minos recibe la noticia de que el Minotauro ha sido asesinado por Teseo y que este ha logrado escapar del laberinto, decide encarcelar al arquiecto, Dédalo, y a su hijo, Ícaro, en lo alto de la torre de la intrincada construcción. Aunque parece imposible salir de allí, ambos van a emplear todo su ingenio y su esfuerzo en intentar escapar. 
 
 
 *
