@@ -38,6 +38,11 @@ jóvenes o niños._
           página: adultos/conspiracion
           imágen: adultos/conpiracionespejos-peq.jpg }}
 
+{{ libro "Dios 3.0"
+          página: adultos/dios
+          imágen: adultos/cub-dios170.jpg }}
+          
+
 {{ salto }}
 
 
@@ -177,8 +182,7 @@ jóvenes o niños._
 {{ libro "La vida es sueño"
           página: sm/sueño
           imágen: sm/sueño-170.jpeg }}  
-          
-          
+                 
 {{ libro "Caballos en la nieve"
           página: sm/caballos
           imágen: sm/cub-caballos170.jpg }}  
