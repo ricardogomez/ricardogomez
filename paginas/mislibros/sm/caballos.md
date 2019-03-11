@@ -4,6 +4,8 @@
 
 **Publicado en 2018. 251 páginas.**
 
+**Ilustraciones de JESÚS GABÁN**
+
 
 ---
 
