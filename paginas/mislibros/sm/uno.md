@@ -1,5 +1,7 @@
 {{ imágen mislibros/sm/cub-uno340.jpeg posición: izq }} **De la cuarta de cubierta:**
 
+.
+
 
 
 Todo parece inocente a la luz del día.
@@ -23,6 +25,12 @@ O no...
 .
 
 .
+
+.
+
+.
+
+
 
 .
 
