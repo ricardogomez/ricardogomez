@@ -289,6 +289,10 @@ jóvenes o niños._
 {{ libro "21 relatos por la educación"
           página: varios-y-colectivos/relatos-educacion
           imágen: varios-y-colectivos/relatos-educación-peq.jpg }}
+          
+{{ libro "COMO TÚ"
+          página: varios-y-colectivos/comotu
+          imágen: varios-y-colectivos/comotu-170.jpg }}
 
 {{ salto }}
 
