@@ -45,9 +45,12 @@ Por eso deseamos que un día lo más cercano posible resulta innecesario.
 
 ---
 
-**Mi cuento: LEER EL CIELO**
+{{ imágen mislibros/varios-y-colectivos/leerelcielo.jpg posición: izq }} **Mi cuento: LEER EL CIELO**
 
 **Ilustrado (magníficamente) por ALBA MARINA RIVERA**
+
+.
+
 
 
 MWANA LLEVABA TIEMPO AVISANDO de que el próximo sería su último viaje, pero nadie le hacía caso. Todos en el poblado confiaban en que un año más subiera al Gran Baobab y bajara de nuevo, y él llevaba meses advirtiéndolo:
@@ -99,7 +102,6 @@ Laimé se sintió sola, pero no cejó en su empeño. Desafiando al vértigo, al 
 Ahora tenía que convencer al poblado de que podía ser Lectora del Cielo. La primera Lectora del Cielo. 
 
 
-{{ imágen mislibros/varios-y-colectivos/leerelcielo.jpg posición: izq }}
 
 ---
 
