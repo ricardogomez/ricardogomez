@@ -22,15 +22,15 @@ Pero esta vez tienen caballos. Esta vez son caballos en la nieve.
 
 .
 
-.
-
 --
 **El libro comienza así...**
 
 **PRESENTACIÓN
+
 La voz de los vivos.**
 
 
+.
 
 
 
