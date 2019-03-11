@@ -1,4 +1,4 @@
-{{ imágen mislibros/sm/cub-caballos2a posición: izq }} Argumento:
+{{ imágen mislibros/sm/cub-caballos2a.jpg posición: izq }} Argumento:
 
 
 
