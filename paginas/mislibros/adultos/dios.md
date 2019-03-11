@@ -27,7 +27,7 @@ Pero la convivencia entre ángeles y humanos dará lugar a situaciones inesperad
 
 ---
 
-**Capítulo 1: DIOS*
+**Capítulo 1: DIOS**
 
 .
 
