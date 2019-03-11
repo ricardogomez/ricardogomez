@@ -292,7 +292,7 @@ jóvenes o niños._
           
 {{ libro "COMO TÚ"
           página: varios-y-colectivos/comotu
-          imágen: varios-y-colectivos/comotu-170.jpg }}
+          imágen: varios-y-colectivos/comotu-170.jpeg }}
 
 {{ salto }}
 
