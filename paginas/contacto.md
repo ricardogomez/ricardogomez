@@ -17,10 +17,6 @@ __> ricardogomez3333@gmail.com__
 .
 
 
-Para traducciones y otros asuntos relacionados con la edición de libros de aquí en adelante, puedes ponerte en contacto con mi agente, **Isabel Martí**, de **IMC Agència Literària**:
-
-
-**Info@iemece.com**
 
 * * *
 
