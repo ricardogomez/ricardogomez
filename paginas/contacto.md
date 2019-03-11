@@ -1,6 +1,7 @@
 ---
 titulo: "Contactar"
 subtitulo: ""
+datos: ""
 ---
 {{ imágen contacto/pi.jpg posición: der }}
 
