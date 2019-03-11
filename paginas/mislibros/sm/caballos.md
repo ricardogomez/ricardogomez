@@ -1,4 +1,17 @@
-{{ imágen mislibros/sm/cub-caballos2a.jpg posición: izq }} **De la contracubierta:**
+{{ imágen mislibros/sm/cub-caballos2a.jpg posición: izq }} **CABALLOS EN LA NIEVE** 
+
+**Editorial SM. Colección BARCO DE VAPOR. Nº 240. **
+
+**Publicado en 2018. 251 páginas.**
+
+
+---
+
+
+
+
+
+**De la contracubierta:**
 
 
 
@@ -18,7 +31,6 @@ Pero esta vez tienen caballos. Esta vez son caballos en la nieve.
 
 .
 
-.
 
 .
 
