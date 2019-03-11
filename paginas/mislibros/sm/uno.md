@@ -41,13 +41,13 @@ O no...
 
 **y cuando se dieron cuenta ya era demasiado tarde.**
 
-**Ni él ni sus padres eran capaces de deterlos.**
+**Ni él ni sus padres eran capaces de detenerlos.**
 
 **Solo podían hacer una cosa: huir. ¿Pero de qué? ¿De quiénes...?**
 
 ---
 
-**1**
+**CAPÍTULO 1**
 
 .
 
