@@ -1,4 +1,14 @@
-{{ imágen mislibros/sm/cub-uno340.jpeg posición: izq }} **De la cuarta de cubierta:**
+{{ imágen mislibros/sm/cub-uno340.jpeg posición: izq }} **UNO DE ELLOS** 
+
+**Editorial SM. Colección GRAN ANGULAR. Nº 352. **
+
+**Publicado en 2018. 93 páginas.**
+
+
+---
+
+
+**De la cuarta de cubierta:**
 
 .
 
