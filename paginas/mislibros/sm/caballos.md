@@ -1,4 +1,4 @@
-{{ imágen mislibros/sm/cub-caballos2a.jpg posición: izq }} **CABALLOS EN LA NIEVE** 
+{{ imágen mislibros/sm/cub-caballos.jpg posición: izq }} **CABALLOS EN LA NIEVE** 
 
 **Editorial SM. Colección BARCO DE VAPOR. Nº 240. **
 
