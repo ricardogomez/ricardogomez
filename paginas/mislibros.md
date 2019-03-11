@@ -179,6 +179,14 @@ jóvenes o niños._
           imágen: sm/sueño-170.jpeg }}  
           
           
+{{ libro "Caballos en la nieve"
+          página: sm/caballos
+          imágen: sm/cub-caballos170.jpg }}  
+          
+{{ libro "Uno de ellos"
+          página: sm/uno
+          imágen: sm/cub-uno170.jpg }}  
+          
 {{ libro "El insensato deseo de tener un gato"
           página: sm/gato
           imágen: sm/gato-A170.jpg }}  
