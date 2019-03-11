@@ -185,7 +185,7 @@ jóvenes o niños._
           
 {{ libro "Uno de ellos"
           página: sm/uno
-          imágen: sm/cub-uno170.jpg }}  
+          imágen: sm/cub-uno170a.jpg }}  
           
 {{ libro "El insensato deseo de tener un gato"
           página: sm/gato
