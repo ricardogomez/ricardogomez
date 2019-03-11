@@ -1,5 +1,7 @@
 {{ imágen mislibros/sm/cub-uno340.jpeg posición: izq }} **De la cuarta de cubierta:**
 
+
+
 Todo parece inocente a la luz del día.
 
 Una finca heredada. Unos días en familia. Tranquilidad y descanso.
@@ -18,19 +20,28 @@ O no...
 
 .
 
----
+.
 
-**Comenzaron invadiendo el piso de arriba en silencio, sin hacer apenas ruido
+.
 
-**y cuando se dieron cuenta ya era demasiado tarde.
+.
 
-**Ni él ni sus padres eran capaces de deterlos.
-
-**Solo podían hacer una cosa: huir. ¿Pero de qué? ¿De quiénes...?
 
 ---
 
-**1
+**Comenzaron invadiendo el piso de arriba en silencio, sin hacer apenas ruido**
+
+**y cuando se dieron cuenta ya era demasiado tarde.**
+
+**Ni él ni sus padres eran capaces de deterlos.**
+
+**Solo podían hacer una cosa: huir. ¿Pero de qué? ¿De quiénes...?**
+
+---
+
+**1**
+
+.
 
 
 Comenzaron invadiendo el piso de arriba en silencio, sin hacer apenas ruido, y cuando nos dimos cuenta ya era demasiado tarde. Si solo hubieran sido tres o cuatro mi padre se habría ocupado de ellos, pero eran muchos, tal vez decenas o cientos. En pocos días desde que empezó aquello no nos quedó más remedio que huir, apenas con tiempo de coger lo imprescindible. El coche no había llegado aún a la verja de la entrada cuando una gran llamarada surgió de la casa y al poco la envolvió entera. Mis padres perdían lo que habían edificado con tanta ilusión, pero con eso terminaba aquella pesadilla.
