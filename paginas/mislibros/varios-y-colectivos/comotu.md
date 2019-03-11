@@ -25,7 +25,7 @@
 
 Algunos libros se definen con nitidez desde el título. Este es uno de ellos. Revisémoslo un instante: "Como tú. 20 relatos + 20 ilustraciones por la igualdad".
 
-El contenido parece claro, sobre todo sin consideramos que el sello editorial es Anaya: se trata de una colección de relatos e ilustraciones comprometidos con la igualdad y dirigidos a lectores jóvenes. Se diría que no hace falta añadir más y que, por tanto, el prólogo podría acabar aquí mismo, lo que equivaldría a decir que sobra. En literatura, como en casi todo, lo que no añade sobra.
+El contenido parece claro, sobre todo si consideramos que el sello editorial es Anaya: se trata de una colección de relatos e ilustraciones comprometidos con la igualdad y dirigidos a lectores jóvenes. Se diría que no hace falta añadir más y que, por tanto, el prólogo podría acabar aquí mismo, lo que equivaldría a decir que sobra. En literatura, como en casi todo, lo que no añade sobra.
 
 Sin embargo, si queremos mostrar el hilo de pensamiento que ha desembocado en la creación del libro.
 
