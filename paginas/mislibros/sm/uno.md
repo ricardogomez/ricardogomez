@@ -1,4 +1,4 @@
-{{ imágen mislibros/sm/cub-uno340a.jpeg posición: izq }} **Argumento:**
+{{ imágen mislibros/sm/cub-uno340.jpeg posición: izq }} **Argumento:**
 
 Todo parece inocente a la luz del día.
 
