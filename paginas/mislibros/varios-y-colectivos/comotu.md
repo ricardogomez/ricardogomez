@@ -105,6 +105,12 @@ Ahora tenía que convencer al poblado de que podía ser Lectora del Cielo. La pr
 
 ---
 
+.
+
+.
+
+
+
 ---
 
 
