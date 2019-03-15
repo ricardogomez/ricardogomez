@@ -2,7 +2,7 @@
 titulo: "Ritos de jaima"
 subtitulo: "Ediciones Bubisher, 2012. Fotografía de cubierta: Inés G. Aparicio. Los beneficios íntegros de la venta de este libro van destinados al Proyecto Bubisher. "
 ---
-{{ imágen mislibros/otros/ritosdejaima.jpg posición: izq }} **Prólogopor
+{{ imágen mislibros/otros/ritosdejaima.jpg posición: izq }} **Prólogo por
 Javier Reverte**
 
 _Limam Boisha es un poeta del que no tenía noticia antes de abrir las páginas
