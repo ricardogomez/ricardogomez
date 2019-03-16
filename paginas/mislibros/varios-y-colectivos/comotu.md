@@ -51,6 +51,10 @@ La igualdad entre hombres y mujeres no existe en nuestra sociedad actual. Esa ca
 
 .
 
+.
+
+.
+
 
 Luego, otras 20 ilustradoras e ilustradores iluminaron los relatos en una fusión de creación y compromiso entre palabra e imagen que dio como resultado un libro potente y hermoso, a veces terrible y a veces irónico, siempre lúcido, del que nos sentimos orgullosos.
 
@@ -69,6 +73,9 @@ Luego, otras 20 ilustradoras e ilustradores iluminaron los relatos en una fusió
 
 .
 
+.
+
+.
 
 
 .
@@ -91,7 +98,7 @@ Por eso deseamos que un día lo más cercano posible resulta innecesario.
 
 
 
-MWANA LLEVABA TIEMPO AVISANDO de que el próximo sería su último viaje, pero nadie le hacía caso. Todos en el poblado confiaban en que un año más subiera al Gran Baobab y bajara de nuevo, y él llevaba meses advirtiéndolo:
+Mwana llevaba tiempo avisando de que el próximo sería su último viaje, pero nadie le hacía caso. Todos en el poblado confiaban en que un año más subiera al Gran Baobab y bajara de nuevo, y él llevaba meses advirtiéndolo:
 
 –Ya no me veréis bajar. No estaréis preparados para lo que viene. 
 
