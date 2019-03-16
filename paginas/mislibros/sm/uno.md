@@ -1,6 +1,7 @@
 
 ---
 titulo: "Uno de ellos"
+
 subtitulo: "Editorial SM, 2018. Colección Gran Angular, Nº 352. 93 páginas. 
 ---
 
