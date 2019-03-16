@@ -30,6 +30,14 @@ Pero esta vez tienen caballos. Esta vez son caballos en la nieve.
 
 .
 
+.
+
+.
+
+
+.
+
+.
 
 .
 
@@ -38,7 +46,7 @@ Pero esta vez tienen caballos. Esta vez son caballos en la nieve.
 
 *El libro comienza así...*
 
-{{ imágen mislibros/sm/caballos-01.jpg posición: izq }} 
+{{ imágen mislibros/sm/caballos-01.jpg posición: der }} 
 
 
 **PRESENTACIÓN**
