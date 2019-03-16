@@ -290,9 +290,17 @@ jóvenes o niños._
           página: varios-y-colectivos/relatos-educacion
           imágen: varios-y-colectivos/relatos-educación-peq.jpg }}
           
+{{ libro "40 cuentos a todo vapor"
+          página: varios-y-colectivos/40cuentos
+          imágen: varios-y-colectivos/40cuentos-170.jpg }}      
+          
+          
 {{ libro "COMO TÚ"
           página: varios-y-colectivos/comotu
           imágen: varios-y-colectivos/comotu-170.jpeg }}
+          
+          
+          
 
 {{ salto }}
 
