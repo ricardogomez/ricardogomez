@@ -51,13 +51,13 @@ Pero esta vez tienen caballos. Esta vez son caballos en la nieve.
 
 *El libro comienza así...*
 
-{{ imágen mislibros/sm/caballos-01.jpg posición: der }} 
+{{ imágen mislibros/sm/caballos-02.jpg posición: der }} 
 
 
 **PRESENTACIÓN**
 
 
-titulo: **La voz de los vivos.**
+**La voz de los vivos.**
 
 
 .
