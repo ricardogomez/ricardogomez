@@ -37,9 +37,17 @@ La igualdad entre hombres y mujeres no existe en nuestra sociedad actual. Esa ca
 
 {{ imágen mislibros/varios-y-colectivos/comotu-autores.jpg posición: der }}
 
+.
+
+
+
 Luego, otras 20 ilustradoras e ilustradores iluminaron los relatos en una fusión de creación y compromiso entre palabra e imagen que dio como resultado un libro potente y hermoso, a veces terrible y a veces irónico, siempre lúcido, del que nos sentimos orgullosos.
 
 {{ imágen mislibros/varios-y-colectivos/comotu-ilustradores.jpg posición: der }}
+
+.
+
+
 
 Esto es **Como tú**.
 
