@@ -35,7 +35,11 @@ La igualdad entre hombres y mujeres no existe en nuestra sociedad actual. Esa ca
 
 **Como tú** quiere aportar su grano de arena a este propósito. Fueron convocados 20 escritoras y escritores con el fin de escribir un relato breve sobre igualdad. Hay relatos de todos los géneros y miradas, la mayoría enfocados desde la narración clásica, aunque también pueden encontrarse dos poemas, un guion de cine, un texto teatral y un hilo de Twitter.
 
+{{ imágen mislibros/varios-y-colectivos/comotu-autores.jpg posición: der }}
+
 Luego, otras 20 ilustradoras e ilustradores iluminaron los relatos en una fusión de creación y compromiso entre palabra e imagen que dio como resultado un libro potente y hermoso, a veces terrible y a veces irónico, siempre lúcido, del que nos sentimos orgullosos.
+
+{{ imágen mislibros/varios-y-colectivos/comotu-ilustradores.jpg posición: der }}
 
 Esto es **Como tú**.
 
@@ -104,20 +108,6 @@ Ahora tenía que convencer al poblado de que podía ser Lectora del Cielo. La pr
 
 
 ---
-
-.
-
-
-Prueba
-.
-
-
----
-
-
-
-
-
 
 
 
