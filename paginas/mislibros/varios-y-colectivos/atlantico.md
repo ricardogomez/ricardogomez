@@ -3,7 +3,7 @@ titulo: "Atlántico (30 historias de dos mundos)"
 subtitulo: ""
 ---
 {{ imágen mislibros/varios-y-colectivos/atlantico.png posición: izq
-}}_Agustín Fernández Paz, Alfredo Gómez Cerdá, Andreu Martín y Iaurne Ribera,
+}}_Agustín Fernández Paz, Alfredo Gómez Cerdá, Andreu Martín y Jaume Ribera,
 Ángel Galeano H., Antonio García Teijeiro, Blanca Álvarez, Care Santos, Carlo
 Frabetti, Carlos Albeiro Agudelo, Ema Wolf, Esther Fleisacher, Evelio José
 Rosero, Fernando Lalana, Fernando Marías, Francisco Montaña, Gonzalo España,
