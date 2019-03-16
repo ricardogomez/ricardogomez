@@ -1,10 +1,7 @@
-
 ---
 titulo: "Uno de ellos"
-
-subtitulo: "Editorial SM, 2018. Colección Gran Angular, Nº 352. 93 páginas. 
+subtitulo: "Editorial SM, 2018. Colección Gran Angular, Nº 352. 93 páginas."
 ---
-
 
 
 {{ imágen mislibros/sm/cub-uno340.jpeg posición: izq }} 
