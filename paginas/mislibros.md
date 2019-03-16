@@ -309,5 +309,11 @@ jóvenes o niños._
 {{ libro "Ritos de jaima"
           página: otros/ritosdejaima
           imágen: otros/ritosdejaima-peq.jpg }}
+          
+          
+{{ libro "El niño de luz de plata"
+          página: otros/plata
+          imágen: otros/plata-170.jpg }}
+
 
 {{ salto }}
