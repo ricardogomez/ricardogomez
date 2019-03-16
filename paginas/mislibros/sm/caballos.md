@@ -57,7 +57,7 @@ Pero esta vez tienen caballos. Esta vez son caballos en la nieve.
 **PRESENTACIÓN**
 
 
-**La voz de los vivos.**
+titulo: **La voz de los vivos.**
 
 
 .
