@@ -1,15 +1,12 @@
-{{ imágen mislibros/sm/cub-caballos.jpg posición: izq }} **CABALLOS EN LA NIEVE** 
+---
+titulo: "Caballos en la nieve"
+subtitulo: "Editorial SM, 2018. Colección Barco de Vapor, Nº 240. 251 páginas. Ilustraciones de cubierta e interiores: Jesús Gabán"
+---
 
-**Editorial SM. Colección BARCO DE VAPOR. Nº 240. **
-
-**Publicado en 2018. 251 páginas.**
-
-**Ilustraciones de JESÚS GABÁN**
+{{ imágen mislibros/sm/cub-caballos.jpg posición: izq }} 
 
 
 ---
-
-
 
 
 
@@ -41,6 +38,7 @@ Pero esta vez tienen caballos. Esta vez son caballos en la nieve.
 
 *El libro comienza así...*
 
+{{ imágen mislibros/sm/caballos-01.jpg posición: izq }} 
 
 
 **PRESENTACIÓN**
