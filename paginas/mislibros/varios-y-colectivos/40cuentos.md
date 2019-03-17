@@ -28,20 +28,24 @@ Cuarenta cuentos escritos e ilustrados por los autores de El Barco de Vapor que 
 
 .
 
+
+.
+
 .
 
 ---
 
-**Mi cuento en el libro, ilustrado por Adolfo Serra)**
 
 {{ imágen mislibros/varios-y-colectivos/40serra.png posición: izq }}
 
+
+**Mi cuento en el libro, ilustrado (de lujo) por Adolfo Serra**
+
+
 **GUÁRDAME EL SECRETO**
 
-Guárdame el secreto
+.
 
-
-Ricardo Gómez. Abril de 2018. SM
 
 
 
