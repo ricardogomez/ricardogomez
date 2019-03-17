@@ -24,6 +24,12 @@ Cuarenta cuentos escritos e ilustrados por los autores de El Barco de Vapor que 
 
 .
 
+.
+
+.
+
+.
+
 ---
 
 **Mi cuento en el libro, ilustrado por Adolfo Serra)**
