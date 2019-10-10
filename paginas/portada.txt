@@ -1,1 +1,1 @@
-/imagenes/portada/original.jpg
+/imagenes/portada/original.png
