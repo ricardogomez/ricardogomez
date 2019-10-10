@@ -12,6 +12,20 @@ y juvenil”, aunque en ocasiones no entiendo muy bien dónde está la frontera
 entre edades. Prefiero que los lectores sean quienes se consideren adultos,
 jóvenes o niños._
 
+
+{{ salto }}
+
+## Narval / NOVEDAD
+
+{{ libro "El dulce olor del diablo"
+          página: narval/diablo
+          imágen: narval/diablo-peq.jpg }}
+          
+
+
+{{ salto }}
+
+
 ## Adultos
 
 {{ libro "Los poemas de la arena"
