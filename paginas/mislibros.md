@@ -19,7 +19,7 @@ jóvenes o niños._
 
 {{ libro "El dulce olor del diablo"
           página: narval/diablo
-          imágen: mislibros/diablo-peq.jpg }}
+          imágen: ricardogomez/imagenes/mislibros/diablo-peq.jpg }}
           
 
 
