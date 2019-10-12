@@ -43,7 +43,9 @@ La primera edición de "El dulce olor del diablo", novela de Ricardo Gómez, se 
 
 (Nota de la editora, **Irene Amador**, cuya perspicaz y feminista mirada me ha acompañado en el apasionante proceso de la preparación del libro. ¡Gracias!!
 
---
+---
+
+
 
 
 
