@@ -36,3 +36,14 @@ Una novela que atrapa desde la primera página, un thriller
 psicológico, una investigación médica, una entrada en universos
 inexplicables…
 
+---
+**Y como guiño al contexto, se aclara al final...**
+
+La primera edición de "El dulce olor del diablo", novela de Ricardo Gómez, se imprimió en Torredonjimeno en el mes de septiembre de 2019, cuando el otoño anticipaba los olores del membrillo, la canela, la resina, un libro viejo, la herrumbre, la lejía, el yeso, la papaya, el regaliz... Y la fragancia de un libro nacía en la campiña jienense.
+
+(Nota de la editora, **Irene Amador**, cuya perspicaz y feminista mirada me ha acompañado en el apasionante proceso de la preparación del libro. ¡Gracias!!
+
+--
+
+
+
