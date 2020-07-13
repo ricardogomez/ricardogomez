@@ -5,6 +5,8 @@ ENTREVISTA
 Ricardo Gómez. Noviembre 2019 
 
 
+{{ imágen mislibros/diablo-gr.jpg posición: izq }} 
+
 
 **El dulce olor del diablo es un libro que pueden leer lectores adultos pero también jóvenes. ¿Qué debe contener una novela crossover para que sea atractiva para lectores jóvenes pero también para adultos?**
 
@@ -20,4 +22,4 @@ Yo quise escribir un libro sobre una muchacha que se convierte en mujer de la no
 
 **Está claro que leemos por placer y que los libros nos ayudan a hacer crecer nuestro espíritu crítico. ¿Por qué crees que es importante esa mirada feminista de la que hablas?**
 
-Voy a poner un ejemplo, aunque hay muchos. Desde hace siglos hemos leído La Ilíada como una historia de guerreros machos, de héroes masculinos; así fue concebida por un autor-varón y en una sociedad guerrera-patriarcal. Hace poco apareció El silencio de las mujeres, escrito por una mujer, que trata de recrear el papel de las mujeres en la guerra de Troya, más allá de lo que sabemos de Briseida y de Helena. ¡Eso es indispensable! Necesitamos cambiar los modelos y paradigmas que nos han acompañado y lastrado desde hace generaciones. Lo precisamos los hombres, y también las mujeres. A mí me gustaría que Madame Bovary la reescribiera una mujer (pongamos Emma Rouault) y la titulara algo así como Por qué he confiado en la literatura romántica y cómo he acabado aburriéndome de mi marido. Creo que me interesaría más que la versión de Flaubert. 
+Voy a poner un ejemplo, aunque hay muchos. Desde hace siglos hemos leído La Ilíada como una historia de guerreros machos, de héroes masculinos; así fue concebida por un autor-varón y en una sociedad guerrera-patriarcal. Hace poco apareció *El silencio de las mujeres*, escrito por una mujer, que trata de recrear el papel de las mujeres en la guerra de Troya, más allá de lo que sabemos de Briseida y de Helena. ¡Eso es indispensable! Necesitamos cambiar los modelos y paradigmas que nos han acompañado y lastrado desde hace generaciones. Lo precisamos los hombres, y también las mujeres. A mí me gustaría que Madame Bovary la reescribiera una mujer (pongamos Emma Rouault) y la titulara algo así como *Por qué he confiado en la literatura romántica y cómo he acabado aburriéndome de mi marido.* Creo que me interesaría más que la versión de Flaubert. 
