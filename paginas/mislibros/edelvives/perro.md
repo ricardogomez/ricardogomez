@@ -23,3 +23,13 @@ alguien, a la cabecera de una cuna…
 
 El libro ha sido traducido al euskera por **Ibaizabal** :
 
+
+
+
+* * *
+
+He aquí algunas páginas del libro:
+
+{{ imágen mislibros/edelvives/cubierta-goss.jpg posición: izq }}
+
+
