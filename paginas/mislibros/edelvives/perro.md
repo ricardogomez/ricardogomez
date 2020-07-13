@@ -30,6 +30,6 @@ El libro ha sido traducido al euskera por **Ibaizabal** :
 
 He aquí algunas páginas del libro:
 
-{{ imágen mislibros/edelvives/cubierta-goss.jpg posición: izq }}
+{{ imágen mislibros/Optimized-perro doble1.png posición: izq }}
 
 
