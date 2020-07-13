@@ -52,22 +52,28 @@ Y seleccionado en la Bienal de Bratislava de ese mismo año.
 
 * * *
 
-La cubierta fue elegida como ilustración de portada parael número 245 de CLIJ.
+La cubierta fue elegida como ilustración de portada para el número 245 de CLIJ.
 
 {{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-clij.jpg posición: izq }}
+
 * * * 
 
 He aquí alguna de las ilustraciones  del libro:
 
 {{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble1.jpg posición: izq }}
 
+
 {{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble2.jpg posición: izq }}
+
 
 {{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble3.jpg posición: izq }}
 
+
 {{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble4.jpg posición: izq }}
 
+
 {{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble5.jpg posición: izq }}
+
 
 * * * 
 
