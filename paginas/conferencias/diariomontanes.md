@@ -3,7 +3,7 @@
 
 **RICARDO GÓMEZ en Cantabria**
 
-*Con el Equipo Peonza**
+**Con el Equipo Peonza**
 
 {{ imágen conferencias/diariomontanes.png posición: der }}
 
