@@ -32,4 +32,10 @@ He aquí algunas páginas del libro:
 
 {{ imágen mislibros/edelvives/Optimized-perro doble1.png posición: izq }}
 
+.
+
+{{ imágen mislibros/edelvives/cubierta-goss.jpg posición: izq }}
+
+ç
+
 
