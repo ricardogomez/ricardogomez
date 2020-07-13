@@ -26,4 +26,9 @@ Un día, Afrodita, la diosa del amor, decide ir a visitarla. Al verla, siente ta
 *
 
 *
+Algunas imágenes del libro:
+
+{{imagen mislibros/edelvives-mitologia/medusa-pag1.jpg posicion:izq }}
+
+{{imagen mislibros/edelvives-mitologia/medusa-pag2.jpg posicion:izq }}
 
