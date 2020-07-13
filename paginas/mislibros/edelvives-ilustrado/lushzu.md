@@ -27,6 +27,17 @@ Estoy emocionado. ¡Mi primer álbum ilustrado! ¡Y de qué manera…!
 
 * * *
 
+*Argumento:*
+
+Lu Shzu trabajaba de sol a sol en una fábrica de  juguetes. Llevaba una vida tranquila.  Pero un día tuvo un sueño peligroso: desear su propia  muñeca. Y hay deseos y sueños  que cambian nuestra vida.  
+(Lu Shzu works from down tu dusk in the toy factory. Her  life is a quiet one. However,  one day, she has a dangeous fream: she desieres a doll  of her  own. There are wishes and dreams that change the course of our lives.)
+
+
+* * * 
+
+
+
+
 Apenas ha salido el libro, ya me envían un enlace con lo que creo es la
 primera reseña:
 
@@ -34,3 +45,34 @@ En el blog: > [trafegando
 ronseis](http://trafegandoronseis.blogspot.com/2011/11/el-sueno-de-lu-shzu.html)
 
 * * *
+
+El  libro fue finalista del  Premio  de  Ilustración de la CCEI en 2013.
+Y seleccionado en la Bienal de Bratislava de ese mismo año. 
+
+
+* * *
+
+La cubierta fue elegida como ilustración de portada parael número 245 de CLIJ.
+
+{{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-clij.jpg posición: izq }}
+* * * 
+
+He aquí alguna de las ilustraciones  del libro:
+
+{{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble1.jpg posición: izq }}
+
+{{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble2.jpg posición: izq }}
+
+{{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble3.jpg posición: izq }}
+
+{{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble4.jpg posición: izq }}
+
+{{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble5.jpg posición: izq }}
+
+* * * 
+
+
+
+
+
+
