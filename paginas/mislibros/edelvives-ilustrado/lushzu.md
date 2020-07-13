@@ -27,7 +27,7 @@ Estoy emocionado. ¡Mi primer álbum ilustrado! ¡Y de qué manera…!
 
 * * *
 
-*Argumento:*
+**Argumento:**
 
 Lu Shzu trabajaba de sol a sol en una fábrica de  juguetes. Llevaba una vida tranquila.  Pero un día tuvo un sueño peligroso: desear su propia  muñeca. Y hay deseos y sueños  que cambian nuestra vida.  
 (Lu Shzu works from down tu dusk in the toy factory. Her  life is a quiet one. However,  one day, she has a dangeous fream: she desieres a doll  of her  own. There are wishes and dreams that change the course of our lives.)
