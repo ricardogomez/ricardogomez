@@ -5,6 +5,8 @@
 
 *Con el Equipo Peonza**
 
+{{ imágen conferencias/diariomontanes.png posición: der }}
+
 La semana que viene visita nuestra región el  escritor Ricardo Gómez (Segovia, 1954) Profesor de Matemáticas durante mucho tiempo, Ricardo Gómez abandonó el mundo de la enseñanza para dedicarse a la literatura. Comenzó escribiendo para adultos, obteniendo en este ámbito los primeros premios de su carrera literaria. Publicó luego algunos libros de divulgación científica; y pasó enseguida a escribir libros destinados a los niños y a los jóvenes, con los que ha obtenido ya alrededor de una docena de prestigiosos galardones y, lo que es más importante, el favor de los lectores.
 Ricardo Gómez realizará encuentros con escolares de infantil y primaria en el colegio Fuente Salín de Pesués, Valle de Reocín de La Veguilla, Pintor Escudero de Torrelavega, Gerardo Diego de Los Corrales de Buelna, Castroverde y Colegio nº 27 en Santander. Así mismo, celebrará encuentros con lectores en las bibliotecas públicas de Polanco, Mazcuerras y Los Corrales de Buelna.
 En la siguiente entrevista profundizamos en el conocimiento de su trabajo a través de sus palabras.
