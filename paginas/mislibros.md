@@ -164,15 +164,15 @@ jóvenes o niños._
 {{ libro "La sabiduría"
 {{ libro "Los enigmas de la Esfinge de Atenea"
           página: edelvives-mitologia/atenea
-          imágen: edelvives-mitologia/atenea-cub-peq.jpeg }}
+          imágen: edelvives-mitologia/atenea-cub-peq.jpg }}
           
 {{ libro "Las valientes Amazonas"
           página: edelvives-mitologia/amazonas
-          imágen: edelvives-mitologia/amazonas-cub-peq.jpeg }}
+          imágen: edelvives-mitologia/amazonas-cub-peq.jpg }}
           
 {{ libro "La terrorífica Medusa"
           página: edelvives-mitologia/medusa
-          imágen: edelvives-mitologia/medusa-cub-peq.jpeg }}
+          imágen: edelvives-mitologia/medusa-cub-peq.jpg }}
           
 
 {{ salto }}
