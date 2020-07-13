@@ -1,5 +1,5 @@
 # La sabiduría de Atenea
-Nº 8 de la Colección **Mitos Clásicos**. Editorial Edelvives. Ilustrado por **AyeshaL. Rubio**. Año 2020
+Nº 8 de la Colección **Mitos Clásicos**. Editorial Edelvives. Ilustrado por **Ayesha L. Rubio**. Año 2020
 
 {{imagen mislibros/edelvives-mitologia/Optimized-atenea-cub-600.jpg posicion:izq }}
 
