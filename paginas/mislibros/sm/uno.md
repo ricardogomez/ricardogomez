@@ -96,7 +96,9 @@ Nos hemos detenido. Mientras mi padre llena el depósito, mamá y yo entramos al
 
 ---
 
+Crítica del libro, aparecida en los Cuadernos CALCO, de FIRA, en Pamplona. 
 
+{{ imágen mislibros/sm/uno-de-ellos-fira.jpeg posición: der }}
 
 
 
