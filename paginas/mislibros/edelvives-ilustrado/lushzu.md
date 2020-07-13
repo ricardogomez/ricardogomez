@@ -73,7 +73,7 @@ He aquí alguna de las ilustraciones  del libro:
 
 
 
-{{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble1.png }}
+{{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble1.png posicion: der }}
 
 
 {{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble2.png posición: der }}
