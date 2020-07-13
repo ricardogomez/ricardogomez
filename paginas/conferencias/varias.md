@@ -11,13 +11,9 @@ En noviembre de 2019 publiqué con Narval "El dulce olor diablo", una novela  in
 
 
 
-La Fundación MAPFRE me invitó a dar una charla en el marco de la Feria del
-Libro de Madrid. Por esas fechas habían muerto Sendak y Carlos Fuentes. Me
-pareció que era una oportunidad para recordar sus figuras y para insistir en
-la responsabilidad de los adultos a la hora de preservar la capacidad de
-fantasía de los pequeños lectores.
+A comienzos de 2019 visité Cantabria, en una gira agotador pero emocionante por centros educativos y bibliotecas de Cantabria, organizadas magníficamente por Javier Sobrino, miembro del Equipo Peonza. Por esas fechas se  publicó una entrevista en el Diario Montañés, que reproduzco aquí...
 
-[> ¡Larga vida a los duendes’](/conferencias/diariomontanés)
+[> ¡Larga vida a los duendes’](/conferencias/diariomontanes)
 
 ---
 
