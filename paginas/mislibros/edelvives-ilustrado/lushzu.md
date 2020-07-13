@@ -58,13 +58,33 @@ La cubierta fue elegida como ilustración de portada para el número 245 de CLIJ
 
 .
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 
 * * * 
 
 
 
 
-He aquí alguna de las ilustraciones  del libro:
+He aquí alguna de las ilustraciones del libro:
 
 
 
