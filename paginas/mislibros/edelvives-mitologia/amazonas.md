@@ -29,8 +29,8 @@ Los viajeros que regresan a Grecia describen con miedo y admiración a las mujer
 
 Algunas imágenes del libro...
 
-{{imagen mislibros/edelvives-mitologia/Optimized-amazonas_int1.jpeg posicion:izq }}
+{{imagen mislibros/edelvives-mitologia/Optimized-amazonas_int1.jpg posicion:izq }}
 
-{{imagen mislibros/edelvives-mitologia/Optimized-amazonas_int2.jpeg posicion:izq }}
+{{imagen mislibros/edelvives-mitologia/Optimized-amazonas_int2.jpg posicion:izq }}
 
 
