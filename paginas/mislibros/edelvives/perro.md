@@ -30,6 +30,6 @@ El libro ha sido traducido al euskera por **Ibaizabal** :
 
 He aquí algunas páginas del libro:
 
-{{ imágen imnagenes/Optimized-perro doble1.png posición: izq }}
+{{ imágen imagenes/mislibros/edelvives Optimized-perro doble1.png posición: izq }}
 
 
