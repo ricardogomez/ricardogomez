@@ -29,9 +29,9 @@ Intrépida y decidida, Atenea pronto empieza a tener enfrentamientos con otros d
 
 Aquí pueden verse algunas páginas del libro:
 
-{{imagen mislibros/edelvives-mitologia/atenea-pag1.jpg posicion:izq }}
+{{imagen mislibros/edelvives-mitologia/atenea-pag1.jpg posicion: der }}
 
-{{imagen mislibros/edelvives-mitologia/atenea-pag2.jpg posicion:izq }}
+{{imagen mislibros/edelvives-mitologia/atenea-pag2.jpg posicion: der }}
 
-{{imagen mislibros/edelvives-mitologia/atenea-pag3.jpg posicion:izq }}
+{{imagen mislibros/edelvives-mitologia/atenea-pag3.jpg posicion: der }}
 
