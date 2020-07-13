@@ -45,7 +45,9 @@ La primera edición de "El dulce olor del diablo", novela de Ricardo Gómez, se 
 
 ---
 
+**El Papel de Cercedilla** es una revista periódica publicada en el pueblo. En él colaboran autores como Rafael Reig, Virginia Rodríguez, Jorge Riechmann, Pedro Sáez y yo mismo, entre otra buenísima gente. Con motivo de la aparición de mi libro, Pedro Sáez hizo una reseña de las que él puede hacer, como eficaz lector, como filólogo, como poeta... Me siento muy orgulloso de ella. Contiene claves que ni yo mismo hubiese imaginado...
 
+{{ imágen mislibros/dodd-pedro.png posición: der }}
 
 
 
