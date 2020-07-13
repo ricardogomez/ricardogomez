@@ -4,7 +4,7 @@ subtitulo: ""
 ---
 {{ imágen conferencias/paisaje.jpg posición: ancho }}
 
-
+!! incluye converencias/varias.md
 !! incluye conferencias/2012.md
 !! incluye conferencias/2011.md
 !! incluye conferencias/2009.md
