@@ -34,8 +34,18 @@ He aquí algunas páginas del libro:
 
 .
 
-{{ imágen mislibros/edelvives/cubierta-goss.jpg posición: izq }}
+{{ imágen mislibros/edelvives/Optimized-perro-doble2.png posición: izq }}
 
-ç
+.
+
+{{ imágen mislibros/edelvives/Optimized-perro-doble3.png posición: izq }}
+
+.
+
+{{ imágen mislibros/edelvives/Optimized-perro-doble4.png posición: izq }}
+.
+
+{{ imágen mislibros/edelvives/Optimized-perro-doble5.png posición: izq }}
+
 
 
