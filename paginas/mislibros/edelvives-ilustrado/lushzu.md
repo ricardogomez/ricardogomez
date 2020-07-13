@@ -56,13 +56,22 @@ La cubierta fue elegida como ilustración de portada para el número 245 de CLIJ
 
 {{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-clij.png posición: izq}}
 
+.
 
 
 * * * 
 
 
 
+
 He aquí alguna de las ilustraciones  del libro:
+
+
+
+* * * 
+
+
+
 
 {{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-doble1.png }}
 
