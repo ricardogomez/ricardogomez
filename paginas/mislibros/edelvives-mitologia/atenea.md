@@ -27,3 +27,11 @@ Intrépida y decidida, Atenea pronto empieza a tener enfrentamientos con otos di
 
 *
 
+Aquí pueden verse algunas páginas del libro:
+
+{{imagen mislibros/edelvives-mitologia/atenea-pag1.jpg posicion:izq }}
+
+{{imagen mislibros/edelvives-mitologia/atenea-pag2.jpg posicion:izq }}
+
+{{imagen mislibros/edelvives-mitologia/atenea-pag3.jpg posicion:izq }}
+
