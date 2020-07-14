@@ -49,7 +49,12 @@ La primera edición de "El dulce olor del diablo", novela de Ricardo Gómez, se 
 
 {{ imágen mislibros/dodd-pedro.png posición: der }}
 
+
+
 ---
+
+
+
 
 El libro recibió una reseña  en la Fundación Germán Sanchez Ruipérez:
 
