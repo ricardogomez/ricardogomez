@@ -50,6 +50,8 @@ El  libro fue finalista del  Premio  de  Ilustración de la CCEI en 2013.
 Y seleccionado en la Bienal de Bratislava de ese mismo año. 
 
 
+{{ imágen mislibros/edelvives-ilustrado/Optimized-lu-shzu-finalista.png posición: der }}
+
 * * *
 
 La cubierta fue elegida como ilustración de portada para el número 245 de CLIJ.
