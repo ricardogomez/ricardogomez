@@ -45,7 +45,7 @@ La primera edición de "El dulce olor del diablo", novela de Ricardo Gómez, se 
 
 ---
 
-{{ imágen mislibros/dodd-reseña-4.png posición: der }}
+{{ imágen mislibros/edodd-reseña-4.png posición: der }}
 
 ---
 
