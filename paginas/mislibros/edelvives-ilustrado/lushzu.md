@@ -85,6 +85,12 @@ La cubierta fue elegida como ilustración de portada para el número 245 de CLIJ
 
 .
 
+.
+
+.
+
+.
+
 ---
 El libro está publicado en Brasil por la Editorial Palavras, Traducido por Miguel del Castillo, y fue elegido en este país como el  mejor álbum  ilustrado del año:
  
