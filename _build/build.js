@@ -7,6 +7,6 @@ builder.build(function (err) {
   if (err) throw err;
   var src = path.join(__dirname, "../imagenes");
   var dest = path.join(__dirname, "./dist/imagenes");
-  shell.ln("-s", src, dest);
+  shell.cp("-R", src, dest);
   console.log("Done:", builder.destination());
 });
