@@ -57,7 +57,7 @@ module.exports = function (locations) {
   locations = locations || {};
   locations.base = locations.base || __dirname;
   locations.source = locations.source || "../paginas";
-  locations.destination = locations.destination || "../dist/";
+  locations.destination = locations.destination || "./dist/";
 
   return Metalsmith(locations.base)
     .clean(true)
