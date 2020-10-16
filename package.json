@@ -1,0 +1,30 @@
+{
+  "name": "ricardogomez.com",
+  "private": true,
+  "version": "1.0.0",
+  "description": "__ricardogomez.com__",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "http-server": "^0.12.3",
+    "prettier": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardogomez/ricardogomez.git"
+  },
+  "keywords": [],
+  "author": "danigb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardogomez/ricardogomez/issues"
+  },
+  "homepage": "https://github.com/ricardogomez/ricardogomez#readme",
+  "scripts": {
+    "postinstall": "cd _build && npm install",
+    "build": "cd _build && npm run build",
+    "start": "concurrently npm:start:*",
+    "start:server": "http-server _site"
+  }
+}
