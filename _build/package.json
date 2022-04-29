@@ -11,7 +11,7 @@
   "author": "danigb",
   "license": "MIT",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
     "handlebars": "^4.0.5",
