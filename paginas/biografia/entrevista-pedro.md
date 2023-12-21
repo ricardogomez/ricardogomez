@@ -2,8 +2,7 @@
 titulo: "Entrevista de Pedro Barbáchano"
 subtitulo: ""
 ---
-{{ imágen biografia/pedro.jpg posición: izq }} **Pedro: ¿Cómo te defines a ti
-mismo?**
+**Pedro: ¿Cómo te defines a ti mismo?**
 
 Ricardo: Vaya pregunta más difícil. Cómo me definiría… De mayor a menor me
 defino como una persona, como un amigo de mis amigos, como lector, como
