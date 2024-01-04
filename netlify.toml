@@ -2,3 +2,4 @@
   base = "/_build"
   command = "npm run build"
   publish = "dist/"
+  ignore = "false"
