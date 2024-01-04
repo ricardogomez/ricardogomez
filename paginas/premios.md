@@ -84,7 +84,8 @@ siguen haciéndolo. Este es un premio de todos. De toda la LIJ.
 
 **2021. Premio _ALA DELTA_ de Edelvives**
 
-Esto es una prueba.
+"Música entre las ramas" es uno de mis libros más queridos. Su escritura supuso un largo viaje por selvas africanas, con un pueblo que habita una pequeña porción del planeta desde hace cientos de generaciones, y cuya vida se ve turbada por la llegada de unos desconocidos. Tal como sucede en otros lugares del mundo. 
+El libro tiene el añadido de las preciosas ilustraciones de Christa Soriano. Y, por si fuera poco, en la entrega, la lectura de Lola Herrera del primer capítulo del libro, me transportó hasta otras historias épicas. 
 
 
 * * *
