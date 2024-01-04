@@ -15,7 +15,24 @@ jóvenes o niños._
 
 {{ salto }}
 
-## Narval / NOVEDAD
+## Libros colectivos
+
+{{ libro "Aurora y en la hora"
+          página: narval/diablo
+          imágen: diablo-peq.jpg posición: izq}}
+          
+{{ libro "La calle de las doce lunas"
+          página: narval/diablo
+          imágen: diablo-peq.jpg posición: izq}}
+
+{{ libro "Escritos de otro mundo"
+          página: narval/diablo
+          imágen: diablo-peq.jpg posición: izq}}
+
+
+{{ salto }}
+
+## Narval
 
 {{ libro "El dulce olor del diablo"
           página: narval/diablo
