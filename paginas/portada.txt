@@ -1,2 +1,2 @@
-/imagenes/portada/Optimized-sanidad.jpeg
+/imagenes/portada/original.jpg
 
