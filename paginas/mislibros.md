@@ -22,7 +22,7 @@ jóvenes o niños._
           imágen: Escritos de otro mundo 170.jpeg posición: izq}}
           
 {{ libro "La calle de las doce lunas"
-          página: mis libros/
+          página: mislibros/
           imágen: La calle de las doce lunas 170.jpeg posición: izq}}
 
 {{ libro "Aurora y en la hora"
