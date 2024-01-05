@@ -18,12 +18,12 @@ jóvenes o niños._
 ## Libros colectivos
 
 {{ libro "Aurora y en la hora"
-          página: narval/diablo
-          imágen: diablo-peq.jpg posición: izq}}
+          página: mislibros/
+          imágen: escritos de otro mundo 170.jpg posición: izq}}
           
 {{ libro "La calle de las doce lunas"
-          página: narval/diablo
-          imágen: diablo-peq.jpg posición: izq}}
+          página: mis libros/
+          imágen: la calle de las doce lunas 170.jpg posición: izq}}
 
 {{ libro "Escritos de otro mundo"
           página: narval/diablo
