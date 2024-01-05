@@ -26,8 +26,8 @@ jóvenes o niños._
           imágen: La calle de las doce lunas 170.jpeg posición: izq}}
 
 {{ libro "Aurora y en la hora"
-          página: narval/diablo
-          imágen: aurora y en la hora.jpg posición: izq}}
+          página: mislibros/
+          imágen: Aurora y en la hora.jpg posición: izq}}
 
 
 {{ salto }}
