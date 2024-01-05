@@ -19,11 +19,11 @@ jóvenes o niños._
 
 {{ libro "Escritos de otro mundo"
           página: mislibros/
-          imágen: escritos de otro mundo 170.jpeg posición: izq}}
+          imágen: Escritos de otro mundo 170.jpeg posición: izq}}
           
 {{ libro "La calle de las doce lunas"
           página: mis libros/
-          imágen: la calle de las doce lunas 170.jpeg posición: izq}}
+          imágen: La calle de las doce lunas 170.jpeg posición: izq}}
 
 {{ libro "Aurora y en la hora"
           página: narval/diablo
