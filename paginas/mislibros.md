@@ -17,17 +17,17 @@ jóvenes o niños._
 
 ## Libros colectivos
 
-{{ libro "Aurora y en la hora"
+{{ libro "Escritos de otro mundo"
           página: mislibros/
-          imágen: escritos de otro mundo 170.jpg posición: izq}}
+          imágen: escritos de otro mundo 170.jpeg posición: izq}}
           
 {{ libro "La calle de las doce lunas"
           página: mis libros/
-          imágen: la calle de las doce lunas 170.jpg posición: izq}}
+          imágen: la calle de las doce lunas 170.jpeg posición: izq}}
 
-{{ libro "Escritos de otro mundo"
+{{ libro "Aurora y en la hora"
           página: narval/diablo
-          imágen: diablo-peq.jpg posición: izq}}
+          imágen: aurora y en la hora.jpg posición: izq}}
 
 
 {{ salto }}
