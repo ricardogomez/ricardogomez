@@ -19,15 +19,15 @@ jóvenes o niños._
 
 {{ libro "Escritos de otro mundo"
           página: mislibros/
-          imágen: imagenes/mislibros/Escritos de otro mundo 170.jpeg posición: izq}}
+          imágen: imagenes/Escritos de otro mundo 170.jpeg posición: izq}}
          
 {{ libro "La calle de las doce lunas"
           página:
-          imágen: imagenes/mislibros/La calle de las doce lunas 170.jpeg posición: izq}}
+          imágen: imagenes/La calle de las doce lunas 170.jpeg posición: izq}}
 
 {{ libro "Aurora y en la hora"
           página: mislibros/
-          imágen: imagenes/mislibros/Aurora y en la hora.jpg posición: izq}}
+          imágen: imagenes/Aurora y en la hora.jpg posición: izq}}
 
 
 {{ salto }}
@@ -137,7 +137,7 @@ jóvenes o niños._
 
 {{ libro "Música entre las ramas"
           página: edelvives/musica
-          imágen: imagenes/mislibros/188318_cub_musica_ramas_170.jpg }}
+          imágen: imagenes/188318_cub_musica_ramas_170.jpg }}
 {{ salto }}
 
 
