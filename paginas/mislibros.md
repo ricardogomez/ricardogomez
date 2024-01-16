@@ -19,15 +19,15 @@ jóvenes o niños._
 
 {{ libro "Escritos de otro mundo"
           página: mislibros/
-          imágen: mislibros/Escritos de otro mundo 170.jpeg posición: izq}}
+          imágen: Escritos de otro mundo 170.jpeg posición: izq}}
          
 {{ libro "La calle de las doce lunas"
           página:
-          imágen: mislibros/La calle de las doce lunas 170.jpeg posición: izq}}
+          imágen: La calle de las doce lunas 170.jpeg posición: izq}}
 
 {{ libro "Aurora y en la hora"
           página: mislibros/
-          imágen: mislibros/Aurora y en la hora.jpg posición: izq}}
+          imágen: Aurora y en la hora.jpg posición: izq}}
 
 
 {{ salto }}
