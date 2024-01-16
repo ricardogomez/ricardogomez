@@ -30,8 +30,9 @@ Libro elegido por la OEPLI, en España, para la Lista de Honor del IBBY 2024.
 **Así comienza el libro...**
 
 
-**1
-EMEKA**
+**Capítulo 1**
+
+**EMEKA**
 
 
 Cuando los primeros madereros llegaron con sus motosierras, Emeka tenía doce años.
@@ -51,8 +52,9 @@ Cuando los madereros llegaron con sus motosierras, los bakaya no se alarmaron de
  ---
  
 
-*2
-KOMBA*
+**Capítulo 2**
+
+**KOMBA**
 
 
 Emeka siempre había vivido en la selva. No imaginaba otro lugar en el mundo distinto de aquella espesura que se extendía por colinas y valles, entre los que corrían caudalosos ríos y, en la larga estación húmeda, una maraña de arroyos. 
