@@ -136,6 +136,13 @@ jóvenes o niños._
           imágen: edelvives/tres-historias-con-gato-peq.png }}
 {{ salto }}
 
+{{ libro "Música entre las ramas"
+          página: edelvives/musica
+          imágen: edelvives/188318_cub_musica_ramas_170.jpg }}
+{{ salto }}
+
+
+
 ## Edelvives - Álbum ilustrado
 
 {{ libro "El sueño de Lu Shzu"
