@@ -15,22 +15,6 @@ jóvenes o niños._
 
 {{ salto }}
 
-## Libros colectivos
-
-{{ libro "Escritos de otro mundo"
-          página: mislibros/
-          imágen: imagenes/Escritos de otro mundo 170.jpeg posición: izq}}
-         
-{{ libro "La calle de las doce lunas"
-          página:
-          imágen: imagenes/La calle de las doce lunas 170.jpeg posición: izq}}
-
-{{ libro "Aurora y en la hora"
-          página: mislibros/
-          imágen: imagenes/Aurora y en la hora.jpg posición: izq}}
-
-
-{{ salto }}
 
 ## Narval
 
@@ -350,7 +334,22 @@ jóvenes o niños._
           página: varios-y-colectivos/comotu
           imágen: varios-y-colectivos/comotu-170.jpeg }}
           
-          
+
+{{ libro "Escritos de otro mundo"
+          página: mislibros/
+          imágen: imagenes/Escritos de otro mundo 170.jpeg posición: izq}}
+         
+{{ libro "La calle de las doce lunas"
+          página:
+          imágen: imagenes/La calle de las doce lunas 170.jpeg posición: izq}}
+
+{{ libro "Aurora y en la hora"
+          página: mislibros/
+          imágen: imagenes/Aurora y en la hora.jpg posición: izq}}
+
+
+{{ salto }}
+
           
 
 {{ salto }}
