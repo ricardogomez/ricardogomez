@@ -338,16 +338,16 @@ jóvenes o niños._
           
 
 {{ libro "Escritos de otro mundo"
-          página: mislibros/
-          imágen: imagenes/Escritos de otro mundo 170.jpeg posición: izq}}
+          página: varios-y-colectivos/escritos
+          imágen: varios-y-colectivos/Escritos 170.jpeg }}
          
 {{ libro "La calle de las doce lunas"
-          página:
-          imágen: imagenes/La calle de las doce lunas 170.jpeg posición: izq}}
+          página: varios-y-colectivos/12lunas
+          imágen: varios-y-colectivos/12lunas 170.jpeg }}
 
 {{ libro "Aurora y en la hora"
-          página: mislibros/
-          imágen: imagenes/Aurora y en la hora.jpg posición: izq}}
+          página: varios-y-colectivos/aurora2
+          imágen: varios-y-colectivos/Aurora2 170.jpg }}
 
 
 {{ salto }}
