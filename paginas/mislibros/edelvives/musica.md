@@ -1,9 +1,13 @@
 ---
 titulo: "Música entre las ramas"
 subtitulo: "Editorial Edelvives, 2022, nº 121 de la colección \"Ala Delta\", serie verde. Ilustraciones de Christa Soriano."
+
 ---
 
+
 {{ imágen mislibros/188318_cub_musica_ramas_340.jpg posición: izq }}
+
+**Dice la sinopsis...**
 
 La vida de los bakayas, una tribu africana que vive en las profundidades de la selva, está a punto de cambiar para siempre.
 Los madereros se acercan con sus motosierras y rompen la paz del lugar. Los sapelis y los mukulungos han sido talados. Los jabalíes y okapis huyen asustados. El aleteo de las mopani anuncia grandes cambios. 
