@@ -49,6 +49,7 @@ Los madereros se acercan con sus motosierras y rompen la paz del lugar. Los sape
 
 **EMEKA**
 
+{{ imágen mislibros/edelvives/musica_ninos.png posición: ancho }}
 
 Cuando los primeros madereros llegaron con sus motosierras, Emeka tenía doce años.
 
@@ -71,6 +72,7 @@ Cuando los madereros llegaron con sus motosierras, los bakaya no se alarmaron de
 
 **KOMBA**
 
+{{ imágen mislibros/edelvives/musica_okapis.jpg posición: ancho }}
 
 Emeka siempre había vivido en la selva. No imaginaba otro lugar en el mundo distinto de aquella espesura que se extendía por colinas y valles, entre los que corrían caudalosos ríos y, en la larga estación húmeda, una maraña de arroyos. 
 
