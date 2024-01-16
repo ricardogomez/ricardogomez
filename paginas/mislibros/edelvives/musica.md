@@ -1,8 +1,6 @@
 ---
-
 titulo: "Música entre las ramas"
-subtitulo: "Editorial Edelvives. XXXI Premio Ala Delta. Mayo de 2022"
-Ilustraciones de CHRISTA SORIANO
+subtitulo: "Editorial Edelvives, 2022, nº 121 de la colección \"Ala Delta\", serie verde. Ilustraciones de Christa Soriano."
 ---
 
 {{ imágen mislibros/188318_cub_musica_ramas_340.jpg posición: izq }}
