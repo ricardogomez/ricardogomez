@@ -1,12 +1,24 @@
 ---
 titulo: "Música entre las ramas"
-subtitulo: "Editorial Edelvives. XXXI Premio Ala Delta. Mayo de 2021"
+subtitulo: "Editorial Edelvives. XXXI Premio Ala Delta. Mayo de 2022"
 ---
 {{ imágen mislibros/188318_cub_musica_ramas_340.jpg posición: izq }}
 
 La vida de los bakayas, una tribu africana que vive en las profundidades de la selva, está a punto de cambiar para siempre.
-Los madereros se acercan con sus motosierras y rompen la paz del lugar. Los sapelis y los mukulungos han sido talados. Los jabalíes y okapis huyen asustados. El aleteo de las mopanbi anuncia grandes cambios. 
+Los madereros se acercan con sus motosierras y rompen la paz del lugar. Los sapelis y los mukulungos han sido talados. Los jabalíes y okapis huyen asustados. El aleteo de las mopani anuncia grandes cambios. 
 ¿Que puede hacer Emeka, un niño de doce años, para evitar que se derrumbe el único mundo que conoce?
+.
+.
+.
+.
+.
+.
+---
+Libro recomendado por la Fundación Cuatro Gatos
+
+---
+
+Libro elegido por la OEPLI, en España, para la Lista de Honor del IBBY 2024. 
 
 
 
