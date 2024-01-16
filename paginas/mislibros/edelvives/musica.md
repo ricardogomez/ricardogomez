@@ -49,7 +49,7 @@ Los madereros se acercan con sus motosierras y rompen la paz del lugar. Los sape
 
 **EMEKA**
 
-{{ imágen mislibros/edelvives/musica_ninos.png posición: ancho }}
+{{ imágen edelvives/musica_ninos.png posición: ancho }}
 
 Cuando los primeros madereros llegaron con sus motosierras, Emeka tenía doce años.
 
