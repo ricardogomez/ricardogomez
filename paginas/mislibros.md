@@ -134,11 +134,10 @@ jóvenes o niños._
 {{ libro "Tres historias con gato"
           página: edelvives/tres-historias-con-gato
           imágen: edelvives/tres-historias-con-gato-peq.png }}
-{{ salto }}
 
 {{ libro "Música entre las ramas"
           página: edelvives/musica
-          imágen: 188318_cub_musica_ramas_170.jpg }}
+          imágen: imagenes/188318_cub_musica_ramas_170.jpg }}
 {{ salto }}
 
 
