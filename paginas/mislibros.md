@@ -19,7 +19,7 @@ jóvenes o niños._
 
 {{ libro "Escritos de otro mundo"
           página: mislibros/
-          imágen: imagenes/Escritos de otro mundo 170.jpeg posición: izq}}
+          imágen: imagenes/mislibros/Escritos de otro mundo 170.jpeg posición: izq}}
          
 {{ libro "La calle de las doce lunas"
           página:
