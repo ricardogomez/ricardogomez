@@ -1,8 +1,10 @@
 ---
+
 titulo: "Música entre las ramas"
 subtitulo: "Editorial Edelvives. XXXI Premio Ala Delta. Mayo de 2022"
 Ilustraciones de CHRISTA SORIANO
 ---
+
 {{ imágen mislibros/188318_cub_musica_ramas_340.jpg posición: izq }}
 
 La vida de los bakayas, una tribu africana que vive en las profundidades de la selva, está a punto de cambiar para siempre.
