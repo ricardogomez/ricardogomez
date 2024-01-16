@@ -338,7 +338,7 @@ jóvenes o niños._
           
 
 {{ libro "Escritos de otro mundo"
-          página: varios-y-colectivos/escritos
+          página: varios-y-colectivos/Escritos
           imágen: varios-y-colectivos/Escritos 170.jpeg }}
          
 {{ libro "La calle de las doce lunas"
@@ -346,7 +346,7 @@ jóvenes o niños._
           imágen: varios-y-colectivos/12lunas 170.jpeg }}
 
 {{ libro "Aurora y en la hora"
-          página: varios-y-colectivos/aurora2
+          página: varios-y-colectivos/Aurora2
           imágen: varios-y-colectivos/Aurora2 170.jpg }}
 
 
