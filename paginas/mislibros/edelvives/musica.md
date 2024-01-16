@@ -21,10 +21,13 @@ Los madereros se acercan con sus motosierras y rompen la paz del lugar. Los sape
 ---
 
 Libro recomendado por la Fundación Cuatro Gatos
+.
+.
+.
 
 ---
 
-Libro elegido por la OEPLI, en España, para la Lista de Honor del IBBY 2024. 
+**Libro elegido por la OEPLI, en España, para la Lista de Honor del IBBY 2024.** 
 
 ---
 
