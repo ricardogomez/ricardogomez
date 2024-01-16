@@ -1,13 +1,11 @@
+---
+titulo: "Escritos de otro mundo"
+subtitulo: "Editorial Kalandraka, 2022. (Dentro de la serie "Escritos..."). 
+Ilustraciones de Federico Delicado."
+---
 {{ imágen mislibros/varios-y-colectivos/Escritos 340.jpeg posición: izq }}
 
-**Escritos de otro mundo**
 
-
-**Editorial KALANDRAKA**
-
-**Publicado en 2022. 189 páginas.**
-
-**Ilustrado por FEDERICO DELICADO**
 
 **Con cuentos "De otro mundo" escritos por Manuel J. Rodríguez, Ricardo Gómez, Marcos Calveiro, Sofía Rhei, Daniel Hernández Chambers, Eduardo Vaquerizo y Carmela Trujillo**
 
