@@ -137,7 +137,7 @@ jóvenes o niños._
 
 {{ libro "Música entre las ramas"
           página: edelvives/musica
-          imágen: 188318_cub_musica_ramas_170.jpg }}
+          imágen: imagenes/mislibros/188318_cub_musica_ramas_170.jpg }}
 {{ salto }}
 
 
