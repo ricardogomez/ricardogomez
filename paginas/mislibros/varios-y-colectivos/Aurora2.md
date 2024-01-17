@@ -3,7 +3,7 @@ titulo: "Aurora y en la hora"
 subtitulo: Editorial Edelvives, 2022. (Segunda parte de la serie "Aurora"). Ilustraciones de Jordi Vila Desclós.
 ---
 
-{{ imágen varios-y-colectivos/Aurora2 340.jpeg posición: izq }}
+{{ imágen "varios-y-colectivos/Aurora2 340.jpeg posición: izq }}
 
 **Los cronistas de Aurora: Ana Alcolea, Jesús Díaz de Palma, David Fernández Sifres, Ricardo Gómez, Alfredo Gómez Cerdá, Jorge Gómez Soto, Paloma González Rubio, Rosa Huertas, David Lozado, Gonzalo Moure y Mónica Rodríguez.**
 
