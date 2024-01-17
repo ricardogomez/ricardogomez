@@ -347,11 +347,10 @@ jóvenes o niños._
 
 {{ libro "Aurora y en la hora"
           página: varios-y-colectivos/Aurora2
-          imágen: varios-y-colectivos/Aurora2 170.jpg }}
+          imágen: mislibros/varios-y-colectivos/Aurora2 170.jpg }}
 
 
 {{ salto }}
-
           
 
 {{ salto }}
