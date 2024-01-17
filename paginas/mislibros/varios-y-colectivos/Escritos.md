@@ -1,5 +1,4 @@
 ---
-
 titulo: "Escritos de otro mundo"
 subtitulo: "Editorial Kalandraka, 2022. (Dentro de la serie "Escritos..."). 
 Ilustraciones de Federico Delicado."
