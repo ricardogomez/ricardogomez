@@ -2,7 +2,7 @@
 titulo: "La calle de las doce lunas"
 subtitulo: ""
 ---
-{{imágen varios-y-colectivos/12lunas 340.jpeg posición: izq
+{{imágen /varios-y-colectivos/12lunas 340.jpeg posición: izq
 }}
 
 _Los doce autores que firman estos relatos (Daniel Hernández Chambers, Gonzalo Moure, Pepe Maestro, Ricardo Gómez, Carmen Pacheco, Manuel J. Rodríguez, Jesús Díaz de Palma, Margarita García Gallardo, Patricia García-Rojo, Santiago García Clairac, Mónica Rodríguez, Roberto Santiago) forman un vecindario variopinto al que le gusta presumir de su barrio, el de las Letras. A lo largo de sus carreras literarias, ladrillo a ladrillo, sudando tinta, han construido historias y sueños siempre convencidos de que no hay nada en este mundo mejor que escribir la vida._
